@@ -2,7 +2,7 @@
 
 Best Resources for Implementing Microservices with .NET Core
 
-### Building Microservices On .NET Core
+## Building Microservices On .NET Core
 
 1. [Building Microservices On .NET Core – Part 1 The Plan](https://altkomsoftware.pl/en/blog/building-microservices-on-net-core-1/)
 
@@ -18,13 +18,9 @@ Best Resources for Implementing Microservices with .NET Core
 
 7. [Building Microservices On .NET Core – Part 7 Transactional Outbox with RabbitMQ](https://altkomsoftware.pl/en/blog/microservices-outbox-rabbitmq/)
 
-**Repository : **
+**Repository :** https://github.com/asc-lab/dotnetcore-microservices-poc
 
-https://github.com/asc-lab/dotnetcore-microservices-poc
-
-> Very simplified insurance sales system made in a microservices architecture using .NET Core
-
-### 
+## Building microservices through Event Driven Architecture
 
 1. [Building microservices through Event Driven Architecture part1 : application specific business rules](https://logcorner.com/building-microservices-through-event-driven-architecture-part1-application-specific-business-rules/)
 
@@ -46,8 +42,32 @@ https://github.com/asc-lab/dotnetcore-microservices-poc
 
 10. [Building microservices through Event Driven Architecture part11: Run Unit tests inside a docker container](https://logcorner.com/building-microservices-through-event-driven-architecture-part11-run-unit-tests-inside-a-docker-container/)
 
-**Repository : **
+**Repository :** https://github.com/logcorner/LogCorner.EduSync.Speech.Command/
 
-https://github.com/logcorner/LogCorner.EduSync.Speech.Command/
+## Building API Gateway Using Ocelot In ASP.NET Core 
 
-    Building microservices through Event Driven Architecture
+1. [Building API Gateway Using Ocelot In ASP.NET Core](https://www.c-sharpcorner.com/article/building-api-gateway-using-ocelot-in-asp-net-core/)
+
+2. [Part Two - Building API Gateway Using Ocelot In ASP.NET Core - Authentication](https://www.c-sharpcorner.com/article/building-api-gateway-using-ocelot-in-asp-net-core-part-two/)
+
+3. [Part Three -Building API Gateway Using Ocelot In ASP.NET Core - Logging](https://www.c-sharpcorner.com/article/building-api-gateway-using-ocelot-in-asp-net-core-part-three-logging2/)
+
+4. [Part Four - Building API Gateway Using Ocelot In ASP.NET Core - Rate Limiting](https://www.c-sharpcorner.com/article/building-api-gateway-using-ocelot-in-asp-net-core-rate-limiting-part-four/)
+
+5. [Building API Gateway Using Ocelot In ASP.NET Core - QoS (Quality of Service)](https://www.c-sharpcorner.com/article/building-api-gateway-using-ocelot-in-asp-net-core-qos/)
+
+6. [Building API Gateway Using Ocelot In ASP.NET Core - Load Balancing](https://www.c-sharpcorner.com/article/building-api-gateway-using-ocelot-in-asp-net-core-load-balancing/)
+
+7. [Building API Gateway Using Ocelot In ASP.NET Core - Service Discovery (Eureka)](https://www.c-sharpcorner.com/article/building-api-gateway-using-ocelot-in-asp-net-core-service-discoveryeureka/)
+
+8. [Building API Gateway Using Ocelot In ASP.NET Core - Service Discovery (Consul)](https://www.c-sharpcorner.com/article/building-api-gateway-using-ocelot-in-asp-net-core-service-discovery-consul/)
+
+9. [Building API Gateway Using Ocelot In ASP.NET Core - Configuration (Consul)](https://www.c-sharpcorner.com/article/building-api-gateway-using-ocelot-in-asp-net-core-configuration-consul/)
+
+**Repository :** https://github.com/catcherwong-archive/APIGatewayDemo
+
+-------
+
+## Give a Star! ⭐️
+
+If you find this repository useful, please give it a star. Thanks!
