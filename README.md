@@ -6,7 +6,18 @@ Best Resources for Implementing Microservices with .NET Core
 
 If you liked this project or if it helped you, please give a star ⭐️ for this repository. That will not only help strengthen our .NET community but also improve skills about the Microservices for .NET developers in around the world. Thank you very much 👍
 
-## Building Microservices On .NET Core
+## Contents
+- [Learning Articles](#learning-articles)
+  - [Building Microservices On .NET Core](#building-microservices-on-net-core)
+  - [Building microservices through Event Driven Architecture](#building-microservices-through-event-driven-architecture)
+  - [Building API Gateway Using Ocelot In ASP.NET Core](#building-api-gateway-using-ocelot-in-aspnet-core)
+- [Other Repositories](#other-repositories)
+- [Contribution]()
+- [Licence](#license)
+
+## Learning Articles
+
+### Building Microservices On .NET Core
 
 1. [Building Microservices On .NET Core – Part 1 The Plan](https://altkomsoftware.pl/en/blog/building-microservices-on-net-core-1/)
 
@@ -24,7 +35,7 @@ If you liked this project or if it helped you, please give a star ⭐️ for thi
 
 **Repository :** https://github.com/asc-lab/dotnetcore-microservices-poc
 
-## Building microservices through Event Driven Architecture
+### Building microservices through Event Driven Architecture
 
 1. [Building microservices through Event Driven Architecture part1 : application specific business rules](https://logcorner.com/building-microservices-through-event-driven-architecture-part1-application-specific-business-rules/)
 
@@ -48,7 +59,7 @@ If you liked this project or if it helped you, please give a star ⭐️ for thi
 
 **Repository :** https://github.com/logcorner/LogCorner.EduSync.Speech.Command/
 
-## Building API Gateway Using Ocelot In ASP.NET Core 
+### Building API Gateway Using Ocelot In ASP.NET Core 
 
 1. [Building API Gateway Using Ocelot In ASP.NET Core](https://www.c-sharpcorner.com/article/building-api-gateway-using-ocelot-in-asp-net-core/)
 
@@ -69,6 +80,8 @@ If you liked this project or if it helped you, please give a star ⭐️ for thi
 9. [Building API Gateway Using Ocelot In ASP.NET Core - Configuration (Consul)](https://www.c-sharpcorner.com/article/building-api-gateway-using-ocelot-in-asp-net-core-configuration-consul/)
 
 **Repository :** https://github.com/catcherwong-archive/APIGatewayDemo
+
+
 
 ## License
 
