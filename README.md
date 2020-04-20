@@ -1,6 +1,10 @@
-# Awesome Microservices .NET Core Resources
+# Awesome Microservices .NET Core Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Best Resources for Implementing Microservices with .NET Core
+
+## Give a Star! ⭐️
+
+If you liked this project or if it helped you, please give a star ⭐️ for this repository. That will not only help strengthen our .NET community but also improve skills about the Microservices for .NET developers in around the world. Thank you very much 👍
 
 ## Building Microservices On .NET Core
 
@@ -66,8 +70,8 @@ Best Resources for Implementing Microservices with .NET Core
 
 **Repository :** https://github.com/catcherwong-archive/APIGatewayDemo
 
--------
+## License
 
-## Give a Star! ⭐️
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-If you find this repository useful, please give it a star. Thanks!
+To the extent possible under law, [Mohammad Javad Ebrahimi](https://github.com/mjebrahimi/) has waived all copyright and related or neighboring rights to this work.
