@@ -1,6 +1,6 @@
 # Awesome Microservices .NET Core Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Best Resources for Implementing Microservices with .NET Core
+    Best Resources for Implementing Microservices with .NET Core
 
 ## Give a Star! ⭐️
 
@@ -81,7 +81,7 @@ If you liked this project or if it helped you, please give a star ⭐️ for thi
 
 **Repository :** https://github.com/catcherwong-archive/APIGatewayDemo
 
-
+## Other Repositories
 
 ## License
 
