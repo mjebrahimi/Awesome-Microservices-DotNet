@@ -7,15 +7,17 @@
 If you liked this project or if it helped you, please give a star ⭐️ for this repository. That will not only help strengthen our .NET community but also improve skills about the Microservices for .NET developers in around the world. Thank you very much 👍
 
 ## Contents
-- [Learning Articles](#learning-articles)
+- [Training Series](#training-series)
   - [Building Microservices On .NET Core](#building-microservices-on-net-core)
   - [Building microservices through Event Driven Architecture](#building-microservices-through-event-driven-architecture)
   - [Building API Gateway Using Ocelot In ASP.NET Core](#building-api-gateway-using-ocelot-in-aspnet-core)
+  - [Distributed .NET Core (DShop)](#building-api-gateway-using-ocelot-in-aspnet-core)
+- [Other Tutorials](#other-tutorials)
 - [Other Repositories](#other-repositories)
 - [Contribution]()
 - [Licence](#license)
 
-## Learning Articles
+## Training Series
 
 ### Building Microservices On .NET Core
 
@@ -80,6 +82,44 @@ If you liked this project or if it helped you, please give a star ⭐️ for thi
 9. [Building API Gateway Using Ocelot In ASP.NET Core - Configuration (Consul)](https://www.c-sharpcorner.com/article/building-api-gateway-using-ocelot-in-asp-net-core-configuration-consul/)
 
 **Repository :** https://github.com/catcherwong-archive/APIGatewayDemo
+
+### Distributed .NET Core (DShop)
+
+1. [Distributed .NET Core (DShop) - Teaser](https://www.youtube.com/watch?v=6YYB8vv3pZg)
+
+2. [Distributed .NET Core (DShop) - Episode 1 [Intro, HTTP requests flow, Infrastructure with Docker]](https://www.youtube.com/watch?v=s4fd3PRlOcw)
+
+3. [Distributed .NET Core (DShop) - Episode 2 [CQRS - Write side, Discounts service, MongoDB repository]](https://www.youtube.com/watch?v=yqh0dN4oDTs)
+
+4. [Distributed .NET Core (DShop) - Episode 3 [Subscribing RabbitMQ messages, API gateway]](https://www.youtube.com/watch?v=L9UUUPedidg)
+
+5. [Distributed .NET Core (DShop) - Episode 4 [Asynchronous microservices integration via events]](https://www.youtube.com/watch?v=KiIetmswEos)
+
+6. [Distributed .NET Core (DShop) - Episode 5 [CQRS - Read side, Internal HTTP communication]](https://www.youtube.com/watch?v=o0fMHARUwq0)
+
+7. [Distributed .NET Core (DShop) - Episode 6 [Service discovery & Load balancing with Consul + Fabio]](https://www.youtube.com/watch?v=UWfn8Iml2Kc)
+
+8. [Distributed .NET Core (DShop) - Episode 7 [Handling asynchronous requests, SignalR, Polly]](https://www.youtube.com/watch?v=rKmL2Onh4hg)
+
+9. [Distributed .NET Core (DShop) - Episode 8 [Distributed transactions, 2PC, Event Choreography, Saga]](https://www.youtube.com/watch?v=KI223ULIFoA)
+
+10. [Distributed .NET Core (DShop) - Episode 9 [Vault secrets, Seq logging, Jaeger distributed tracing]](https://www.youtube.com/watch?v=8bDHf7yiNKM)
+
+11. [Distributed .NET Core (DShop) - Episode 10 [Metrics with AppMetrics, InfluxDB, Prometheus, Grafana]](https://www.youtube.com/watch?v=2OiE-h9sNM4)
+
+12. [Distributed .NET Core (DShop) - Episode 11 [Travis CI pipelines, custom MyGet feeds]](https://www.youtube.com/watch?v=sS9yB7m_OsQ)
+
+13. [Distributed .NET Core (DShop) - Episode 12 [Docker basics, Docker Hub, docker-compose]](https://www.youtube.com/watch?v=drD0vgKecAc)
+
+14. [Distributed .NET Core (DShop) - Episode 13 [Integration tests with xUnit, Web API, Mongo, RabbitMQ]](https://www.youtube.com/watch?v=fDe_Neayo9I)
+
+15. [Distributed .NET Core (DShop) - Episode 14 [Consumer-driven contract testing with Pact]](https://www.youtube.com/watch?v=qRCY5BTYQk0)
+
+16. [Distributed .NET Core (DShop) - Episode 15 [Orchestration with Portainer, Kubernetes and Rancher]](https://www.youtube.com/watch?v=YxvB6-6FSZE)
+
+**Repository :** https://github.com/devmentors/DNC-DShop
+
+## Other Tutorials
 
 ## Other Repositories
 
