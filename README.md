@@ -1,6 +1,6 @@
 # Awesome Microservices .NET Core Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-    Best Resources for Implementing Microservices with .NET Core
+    The Best Resources for Microservices in .NET Core
 
 ## Give a Star! ⭐️
 
@@ -11,7 +11,7 @@ If you liked this project or if it helped you, please give a star ⭐️ for thi
   - [Building Microservices On .NET Core](#building-microservices-on-net-core)
   - [Building microservices through Event Driven Architecture](#building-microservices-through-event-driven-architecture)
   - [Building API Gateway Using Ocelot In ASP.NET Core](#building-api-gateway-using-ocelot-in-aspnet-core)
-  - [Distributed .NET Core (DShop)](#building-api-gateway-using-ocelot-in-aspnet-core)
+  - [Distributed .NET Core (DShop)](#distributed-net-core-dshop)
 - [Other Tutorials](#other-tutorials)
 - [Other Repositories](#other-repositories)
 - [Contribution]()
