@@ -4,7 +4,7 @@
 
 ## Give a Star! ⭐️
 
-If you liked this project or if it helped you, please give a star ⭐️ for this repository. That will not only help strengthen our .NET community but also improve skills about the Microservices for .NET developers in around the world. Thank you very much 👍
+If you liked this repo or if it helped you, please give a star ⭐️ for this repository. That will not only help strengthen our .NET community but also improve skills about the Microservices for .NET developers around the world. Thank you very much 👍
 
 ## Contents
 - [Training Series](#training-series)
