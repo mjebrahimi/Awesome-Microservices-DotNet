@@ -21,7 +21,7 @@ If you liked this repo or if it helped you, please give a star ⭐️ for this r
 
 ### Building Microservices On .NET Core
 
-1. [Building Microservices On .NET Core – Part 1 The Plan](https://altkomsoftware.pl/en/blog/building-microservices-on-net-core-1/)
+1. [Building Microservices On .NET Core – Part 1 The Plan](https://altkomsoftware.pl/blog/building-microservices-net-core-part-1-plan/)
 
 2. [Building Microservices On .NET Core – Part 2 Shaping microservice internal architecture with CQRS and MediatR](https://altkomsoftware.pl/en/blog/microservices-net-core-cqrs-mediatr/)
 
@@ -58,6 +58,8 @@ If you liked this repo or if it helped you, please give a star ⭐️ for this r
 9. [Building microservices through Event Driven Architecture part10: Handling updates](https://logcorner.com/building-microservices-through-event-driven-architecture-part10-handling-updates-and-deletes/)
 
 10. [Building microservices through Event Driven Architecture part11: Run Unit tests inside a docker container](https://logcorner.com/building-microservices-through-event-driven-architecture-part11-run-unit-tests-inside-a-docker-container/)
+
+11. [Building microservices through Event Driven Architecture part12: Continuous Integration](https://logcorner.com/building-microservices-through-event-driven-architecture-part12-continuous-integration/)
 
 **Repository :** https://github.com/logcorner/LogCorner.EduSync.Speech.Command/
 
