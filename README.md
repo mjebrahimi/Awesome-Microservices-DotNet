@@ -87,39 +87,85 @@ If you liked this repo or if it helped you, please give a star ⭐️ for this r
 
 ### Distributed .NET Core (DShop)
 
-1. [Distributed .NET Core (DShop) - Teaser](https://www.youtube.com/watch?v=6YYB8vv3pZg)
+1. [Distributed .NET Core (DShop) - Teaser](https://www.youtube.com/watch?v=6YYB8vv3pZg&list=PLqqD43D6Mqz38LoZEuo_hJAp2NxXskcut)
 
-2. [Distributed .NET Core (DShop) - Episode 1 [Intro, HTTP requests flow, Infrastructure with Docker]](https://www.youtube.com/watch?v=s4fd3PRlOcw)
+2. [Distributed .NET Core (DShop) - Episode 1 [Intro, HTTP requests flow, Infrastructure with Docker]](https://www.youtube.com/watch?v=s4fd3PRlOcw&list=PLqqD43D6Mqz38LoZEuo_hJAp2NxXskcut)
 
-3. [Distributed .NET Core (DShop) - Episode 2 [CQRS - Write side, Discounts service, MongoDB repository]](https://www.youtube.com/watch?v=yqh0dN4oDTs)
+3. [Distributed .NET Core (DShop) - Episode 2 [CQRS - Write side, Discounts service, MongoDB repository]](https://www.youtube.com/watch?v=yqh0dN4oDTs&list=PLqqD43D6Mqz38LoZEuo_hJAp2NxXskcut)
 
-4. [Distributed .NET Core (DShop) - Episode 3 [Subscribing RabbitMQ messages, API gateway]](https://www.youtube.com/watch?v=L9UUUPedidg)
+4. [Distributed .NET Core (DShop) - Episode 3 [Subscribing RabbitMQ messages, API gateway]](https://www.youtube.com/watch?v=L9UUUPedidg&list=PLqqD43D6Mqz38LoZEuo_hJAp2NxXskcut)
 
-5. [Distributed .NET Core (DShop) - Episode 4 [Asynchronous microservices integration via events]](https://www.youtube.com/watch?v=KiIetmswEos)
+5. [Distributed .NET Core (DShop) - Episode 4 [Asynchronous microservices integration via events]](https://www.youtube.com/watch?v=KiIetmswEos&list=PLqqD43D6Mqz38LoZEuo_hJAp2NxXskcut)
 
-6. [Distributed .NET Core (DShop) - Episode 5 [CQRS - Read side, Internal HTTP communication]](https://www.youtube.com/watch?v=o0fMHARUwq0)
+6. [Distributed .NET Core (DShop) - Episode 5 [CQRS - Read side, Internal HTTP communication]](https://www.youtube.com/watch?v=o0fMHARUwq0&list=PLqqD43D6Mqz38LoZEuo_hJAp2NxXskcut)
 
-7. [Distributed .NET Core (DShop) - Episode 6 [Service discovery & Load balancing with Consul + Fabio]](https://www.youtube.com/watch?v=UWfn8Iml2Kc)
+7. [Distributed .NET Core (DShop) - Episode 6 [Service discovery & Load balancing with Consul + Fabio]](https://www.youtube.com/watch?v=UWfn8Iml2Kc&list=PLqqD43D6Mqz38LoZEuo_hJAp2NxXskcut)
 
-8. [Distributed .NET Core (DShop) - Episode 7 [Handling asynchronous requests, SignalR, Polly]](https://www.youtube.com/watch?v=rKmL2Onh4hg)
+8. [Distributed .NET Core (DShop) - Episode 7 [Handling asynchronous requests, SignalR, Polly]](https://www.youtube.com/watch?v=rKmL2Onh4hg&list=PLqqD43D6Mqz38LoZEuo_hJAp2NxXskcut)
 
-9. [Distributed .NET Core (DShop) - Episode 8 [Distributed transactions, 2PC, Event Choreography, Saga]](https://www.youtube.com/watch?v=KI223ULIFoA)
+9. [Distributed .NET Core (DShop) - Episode 8 [Distributed transactions, 2PC, Event Choreography, Saga]](https://www.youtube.com/watch?v=KI223ULIFoA&list=PLqqD43D6Mqz38LoZEuo_hJAp2NxXskcut)
 
-10. [Distributed .NET Core (DShop) - Episode 9 [Vault secrets, Seq logging, Jaeger distributed tracing]](https://www.youtube.com/watch?v=8bDHf7yiNKM)
+10. [Distributed .NET Core (DShop) - Episode 9 [Vault secrets, Seq logging, Jaeger distributed tracing]](https://www.youtube.com/watch?v=8bDHf7yiNKM&list=PLqqD43D6Mqz38LoZEuo_hJAp2NxXskcut)
 
-11. [Distributed .NET Core (DShop) - Episode 10 [Metrics with AppMetrics, InfluxDB, Prometheus, Grafana]](https://www.youtube.com/watch?v=2OiE-h9sNM4)
+11. [Distributed .NET Core (DShop) - Episode 10 [Metrics with AppMetrics, InfluxDB, Prometheus, Grafana]](https://www.youtube.com/watch?v=2OiE-h9sNM4&list=PLqqD43D6Mqz38LoZEuo_hJAp2NxXskcut)
 
-12. [Distributed .NET Core (DShop) - Episode 11 [Travis CI pipelines, custom MyGet feeds]](https://www.youtube.com/watch?v=sS9yB7m_OsQ)
+12. [Distributed .NET Core (DShop) - Episode 11 [Travis CI pipelines, custom MyGet feeds]](https://www.youtube.com/watch?v=sS9yB7m_OsQ&list=PLqqD43D6Mqz38LoZEuo_hJAp2NxXskcut)
 
-13. [Distributed .NET Core (DShop) - Episode 12 [Docker basics, Docker Hub, docker-compose]](https://www.youtube.com/watch?v=drD0vgKecAc)
+13. [Distributed .NET Core (DShop) - Episode 12 [Docker basics, Docker Hub, docker-compose]](https://www.youtube.com/watch?v=drD0vgKecAc&list=PLqqD43D6Mqz38LoZEuo_hJAp2NxXskcut)
 
-14. [Distributed .NET Core (DShop) - Episode 13 [Integration tests with xUnit, Web API, Mongo, RabbitMQ]](https://www.youtube.com/watch?v=fDe_Neayo9I)
+14. [Distributed .NET Core (DShop) - Episode 13 [Integration tests with xUnit, Web API, Mongo, RabbitMQ]](https://www.youtube.com/watch?v=fDe_Neayo9I&list=PLqqD43D6Mqz38LoZEuo_hJAp2NxXskcut)
 
-15. [Distributed .NET Core (DShop) - Episode 14 [Consumer-driven contract testing with Pact]](https://www.youtube.com/watch?v=qRCY5BTYQk0)
+15. [Distributed .NET Core (DShop) - Episode 14 [Consumer-driven contract testing with Pact]](https://www.youtube.com/watch?v=qRCY5BTYQk0&list=PLqqD43D6Mqz38LoZEuo_hJAp2NxXskcut)
 
-16. [Distributed .NET Core (DShop) - Episode 15 [Orchestration with Portainer, Kubernetes and Rancher]](https://www.youtube.com/watch?v=YxvB6-6FSZE)
+16. [Distributed .NET Core (DShop) - Episode 15 [Orchestration with Portainer, Kubernetes and Rancher]](https://www.youtube.com/watch?v=YxvB6-6FSZE&list=PLqqD43D6Mqz38LoZEuo_hJAp2NxXskcut)
 
 **Repository :** https://github.com/devmentors/DNC-DShop
+
+### 
+
+1. [Welcome to .NET Conf: Focus on Microservices](https://www.youtube.com/watch?v=ZEvoxXnsbbU&list=PLdo4fOcmZ0oUc2ShrReCS7KoBbPEONE0p)
+
+2. [Why You Should Care About Microservices](https://www.youtube.com/watch?v=7hY6fggwHqU&list=PLdo4fOcmZ0oUc2ShrReCS7KoBbPEONE0p)
+
+3. [Stay Sharp](https://www.youtube.com/watch?v=x_IGNq4snx8&list=PLdo4fOcmZ0oUc2ShrReCS7KoBbPEONE0p)
+
+4. [A Journey into .NET Microservices with Steeltoe](https://www.youtube.com/watch?v=3meYereHHtM&list=PLdo4fOcmZ0oUc2ShrReCS7KoBbPEONE0p)
+
+5. [Orleans at Microsoft](https://www.youtube.com/watch?v=KhgYlvGLv9c&list=PLdo4fOcmZ0oUc2ShrReCS7KoBbPEONE0p)
+
+6. [Adding a Little DAPR to Your .NET Microservices](https://www.youtube.com/watch?v=g-gOlkD9lKs&list=PLdo4fOcmZ0oUc2ShrReCS7KoBbPEONE0p)
+
+7. [Developing and Deploying Microservices with 'Tye'](https://www.youtube.com/watch?v=MMIUpYOQq5Y&list=PLdo4fOcmZ0oUc2ShrReCS7KoBbPEONE0p)
+
+8. [Beyond REST and RPC: Asynchronous Eventing and Messaging Patterns](https://www.youtube.com/watch?v=6zs-PhgfLU4&list=PLdo4fOcmZ0oUc2ShrReCS7KoBbPEONE0p)
+
+9. [The Intersection of Microservices, Domain-Driven Design and Entity Framework Core](https://www.youtube.com/watch?v=DG8Qe7TJiIE&list=PLdo4fOcmZ0oUc2ShrReCS7KoBbPEONE0p)
+
+10. [Build High-performance Microservices with gRPC and .NET](https://www.youtube.com/watch?v=HVq4TstHCEs&list=PLdo4fOcmZ0oUc2ShrReCS7KoBbPEONE0p)
+
+11. [DevOps, Waffles, and Superheroes - Oh My!](https://www.youtube.com/watch?v=5BkKjTxIokU&list=PLdo4fOcmZ0oUc2ShrReCS7KoBbPEONE0p)
+
+12. [API Communication in Microservices with Azure API Management and Azure Functions](https://www.youtube.com/watch?v=YLMsAMvY4KA&list=PLdo4fOcmZ0oUc2ShrReCS7KoBbPEONE0p)
+
+13. [Evolving .NET Framework Monoliths with .NET 5 and Kubernetes](https://www.youtube.com/watch?v=Wbjh4T-cdv8&list=PLdo4fOcmZ0oUc2ShrReCS7KoBbPEONE0p)
+
+14. [Migrating .NET Framework Web Apps to Azure](https://www.youtube.com/watch?v=UT_Fd-Pkiuw&list=PLdo4fOcmZ0oUc2ShrReCS7KoBbPEONE0p)
+
+15. [Building & Debugging Microservices faster using Kubernetes and Visual Studio](https://www.youtube.com/watch?v=98nIvg7ne7Q&list=PLdo4fOcmZ0oUc2ShrReCS7KoBbPEONE0p)
+
+16. [Workshop Module 1: Introducing Microservices](https://www.youtube.com/watch?v=jMDufMYAsmw&list=PLdo4fOcmZ0oUc2ShrReCS7KoBbPEONE0p)
+
+17. [Workshop Module 2: Modeling and Architecting Microservices](https://www.youtube.com/watch?v=u7MM21aIsqk&list=PLdo4fOcmZ0oUc2ShrReCS7KoBbPEONE0p)
+
+18. [Workshop Module 3: Microservice Communication](https://www.youtube.com/watch?v=iL3Kxd4Auys&list=PLdo4fOcmZ0oUc2ShrReCS7KoBbPEONE0p)
+
+19. [Workshop Module 4: Deploying Microservices to Kubernetes](https://www.youtube.com/watch?v=3G7NB4waGbk&list=PLdo4fOcmZ0oUc2ShrReCS7KoBbPEONE0p)
+
+20. [Workshop Module 5: Deploying Service Mesh to Kubernetes](https://www.youtube.com/watch?v=qwEfynnevEU&list=PLdo4fOcmZ0oUc2ShrReCS7KoBbPEONE0p)
+
+21. [Workshop Module 6: Distributed Data](https://www.youtube.com/watch?v=7kVmb747vfM&list=PLdo4fOcmZ0oUc2ShrReCS7KoBbPEONE0p)
+
+**Repository :** https://github.com/dotnet-presentations/dotNETConf/tree/master/2020/FocusOnMicroservices
 
 ## Other Tutorials
 
