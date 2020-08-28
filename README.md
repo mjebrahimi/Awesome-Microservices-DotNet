@@ -12,6 +12,8 @@ If you liked this repo or if it helped you, please give a star ⭐️ for this r
   - [Building microservices through Event Driven Architecture](#building-microservices-through-event-driven-architecture)
   - [Building API Gateway Using Ocelot In ASP.NET Core](#building-api-gateway-using-ocelot-in-aspnet-core)
   - [Distributed .NET Core (DShop)](#distributed-net-core-dshop)
+  - [Microservices .NET](#microservices-net)
+  - [.NET Conf: Focus on Microservices](#net-conf-focus-on-microservices)
 - [Other Tutorials](#other-tutorials)
 - [Other Repositories](#other-repositories)
 - [Contribution]()
@@ -120,6 +122,26 @@ If you liked this repo or if it helped you, please give a star ⭐️ for this r
 16. [Distributed .NET Core (DShop) - Episode 15 [Orchestration with Portainer, Kubernetes and Rancher]](https://www.youtube.com/watch?v=YxvB6-6FSZE&list=PLqqD43D6Mqz38LoZEuo_hJAp2NxXskcut)
 
 **Repository :** https://github.com/devmentors/DNC-DShop
+
+### Microservices .NET
+
+1. [Meet Pacco & Microservices .NET!](https://www.youtube.com/watch?v=5SLyrETnJoE&list=PLqqD43D6Mqz1LNS7bqFhAJNfmVfQ077hz)
+
+2. [CQRS - reserving a resource](https://www.youtube.com/watch?v=Ne5XueXktfM&list=PLqqD43D6Mqz1LNS7bqFhAJNfmVfQ077hz)
+
+3. [Inbox & Outbox pattern - transactional message processing](https://www.youtube.com/watch?v=ebyR5RPKciw&list=PLqqD43D6Mqz1LNS7bqFhAJNfmVfQ077hz)
+
+4. [API Gateway with Ocelot and RabbitMQ](https://www.youtube.com/watch?v=TM3DpaWdLRM&list=PLqqD43D6Mqz1LNS7bqFhAJNfmVfQ077hz)
+
+5. [Contract testing with Pact.io](https://www.youtube.com/watch?v=vhlH5NyNbjA&list=PLqqD43D6Mqz1LNS7bqFhAJNfmVfQ077hz)
+
+6. [Distributed Tracing with Jaeger](https://www.youtube.com/watch?v=toXFRBtv4fg&list=PLqqD43D6Mqz1LNS7bqFhAJNfmVfQ077hz)
+
+7. [Dynamic Credentials with Vault](https://www.youtube.com/watch?v=L3mDWAA-rzg&list=PLqqD43D6Mqz1LNS7bqFhAJNfmVfQ077hz)
+
+8. [DevMentors Live #0 - "Microservices .NET" Q&A, future plans etc...](https://www.youtube.com/watch?v=tQu96sqWkz8&list=PLqqD43D6Mqz1LNS7bqFhAJNfmVfQ077hz)
+
+9. [Sidecar pattern + custom reverse proxy + k8s](https://www.youtube.com/watch?v=1v8SXWXxGvM&list=PLqqD43D6Mqz1LNS7bqFhAJNfmVfQ077hz)
 
 ### .NET Conf: Focus on Microservices
 
