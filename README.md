@@ -16,7 +16,7 @@ If you liked this repo or if it helped you, please give a star ⭐️ for this r
   - [.NET Conf: Focus on Microservices](#net-conf-focus-on-microservices)
 - [Other Tutorials](#other-tutorials)
 - [Other Repositories](#other-repositories)
-- [Contribution]()
+- [Contribution](#contribution)
 - [Licence](#license)
 
 ## Training Series
@@ -198,6 +198,13 @@ If you liked this repo or if it helped you, please give a star ⭐️ for this r
 2. [Microservices using ASP.NET Core, Ocelot, MongoDB and JWT](https://www.codeproject.com/Articles/5271708/Microservices-using-ASP-NET-Core-Ocelot-MongoDB-an)
 
 ## Other Repositories
+
+## Contribution
+
+Let's complete this awesome together and create the most complete resource for microservices in .NET ✌️
+
+Feel free to open an issue or create a pull request with your additions.
+
 
 ## License
 
