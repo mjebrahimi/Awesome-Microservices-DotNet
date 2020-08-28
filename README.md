@@ -23,7 +23,7 @@ If you liked this repo or if it helped you, please give a star ⭐️ for this r
 
 ### Building Microservices On .NET Core
 
-1. [Building Microservices On .NET Core – Part 1 The Plan](https://altkomsoftware.pl/blog/building-microservices-net-core-part-1-plan/)
+1. [Building Microservices On .NET Core – Part 1 The Plan](https://altkomsoftware.pl/en/blog/building-microservices-net-core-part-1-plan/)
 
 2. [Building Microservices On .NET Core – Part 2 Shaping microservice internal architecture with CQRS and MediatR](https://altkomsoftware.pl/en/blog/microservices-net-core-cqrs-mediatr/)
 
@@ -142,6 +142,8 @@ If you liked this repo or if it helped you, please give a star ⭐️ for this r
 8. [DevMentors Live #0 - "Microservices .NET" Q&A, future plans etc...](https://www.youtube.com/watch?v=tQu96sqWkz8&list=PLqqD43D6Mqz1LNS7bqFhAJNfmVfQ077hz)
 
 9. [Sidecar pattern + custom reverse proxy + k8s](https://www.youtube.com/watch?v=1v8SXWXxGvM&list=PLqqD43D6Mqz1LNS7bqFhAJNfmVfQ077hz)
+
+**Repository :** https://github.com/devmentors/Pacco
 
 ### .NET Conf: Focus on Microservices
 
