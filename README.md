@@ -123,6 +123,10 @@ If you liked this repo or if it helped you, please give a star ⭐️ for this r
 
 ## Other Tutorials
 
+1. [Microservices with ASP.NET Core 3.1](https://procodeguide.com/programming/microservices-asp-net-core/)
+
+2. [Microservices using ASP.NET Core, Ocelot, MongoDB and JWT](https://www.codeproject.com/Articles/5271708/Microservices-using-ASP-NET-Core-Ocelot-MongoDB-an)
+
 ## Other Repositories
 
 ## License
