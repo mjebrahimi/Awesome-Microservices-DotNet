@@ -15,6 +15,7 @@ If you liked this repo or if it helped you, please give a star ⭐️ for this r
   - [Microservices .NET](#microservices-net)
   - [.NET Conf: Focus on Microservices](#net-conf-focus-on-microservices)
   - [Microservices with .NET Core and Docker](#microservices-with-net-core-and-docker)
+  - [.NET Microservices Architecture Guidance (Microsoft)](#net-microservices-architecture-guidance-microsoft)
 - [Other Tutorials](#other-tutorials)
 - [Other Repositories](#other-repositories)
 - [Contribution](#contribution)
@@ -212,11 +213,23 @@ If you liked this repo or if it helped you, please give a star ⭐️ for this r
 
 **Repository :** https://github.com/DotNetMax/DockerMonitoringService
 
+### .NET Microservices Architecture Guidance (Microsoft)
+
+- [.NET Microservices: Architecture for Containerized .NET Applications](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/)
+
+- [Download eBook (PDF)](https://aka.ms/microservicesebook)
+
+- [Microservice Architecture with ASP.NET Core (Video)](https://channel9.msdn.com/Shows/On-NET/Microservice-Architecture-with-ASPNET-Core)
+
+**Repository :** https://github.com/dotnet-architecture/eShopOnContainers
+
 ## Other Tutorials
 
 1. [Microservices with ASP.NET Core 3.1](https://procodeguide.com/programming/microservices-asp-net-core/)
 
 2. [Microservices using ASP.NET Core, Ocelot, MongoDB and JWT](https://www.codeproject.com/Articles/5271708/Microservices-using-ASP-NET-Core-Ocelot-MongoDB-an)
+
+
 
 ## Other Repositories
 
