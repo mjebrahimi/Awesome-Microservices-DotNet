@@ -221,6 +221,8 @@ If you liked this repo or if it helped you, please give a star ⭐️ for this r
 
 - [Microservice Architecture with ASP.NET Core (Video)](https://channel9.msdn.com/Shows/On-NET/Microservice-Architecture-with-ASPNET-Core)
 
+- [Implement Microservices Patterns with .NET Core and Docker Containers (Video)](https://channel9.msdn.com/events/Ignite/Microsoft-Ignite-Orlando-2017/BRK3317)
+
 **Repository :** https://github.com/dotnet-architecture/eShopOnContainers
 
 ## Other Tutorials
