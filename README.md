@@ -14,6 +14,7 @@ If you liked this repo or if it helped you, please give a star ⭐️ for this r
   - [Distributed .NET Core (DShop)](#distributed-net-core-dshop)
   - [Microservices .NET](#microservices-net)
   - [.NET Conf: Focus on Microservices](#net-conf-focus-on-microservices)
+  - [Microservices with .NET Core and Docker](#microservices-with-net-core-and-docker)
 - [Other Tutorials](#other-tutorials)
 - [Other Repositories](#other-repositories)
 - [Contribution](#contribution)
@@ -190,6 +191,26 @@ If you liked this repo or if it helped you, please give a star ⭐️ for this r
 21. [Workshop Module 6: Distributed Data](https://www.youtube.com/watch?v=7kVmb747vfM&list=PLdo4fOcmZ0oUc2ShrReCS7KoBbPEONE0p)
 
 **Repository :** https://github.com/dotnet-presentations/dotNETConf/tree/master/2020/FocusOnMicroservices
+
+### Microservices with .NET Core and Docker
+
+1. [Microservices with .NET Core and Docker Episode 1](https://www.youtube.com/watch?v=P5alkeFH8aU&list=PLuFW0YeVZv-kJyjRycyu-5R0COCbTXtIu)
+
+2. [Microservices with .NET Core and Docker Episode 02](https://www.youtube.com/watch?v=Uwsgd7cIJxk&list=PLuFW0YeVZv-kJyjRycyu-5R0COCbTXtIu)
+
+3. [Microservices with .NET Core and Docker Episode 03 - Serilog and Seq](https://www.youtube.com/watch?v=orPeI28AmaM&list=PLuFW0YeVZv-kJyjRycyu-5R0COCbTXtIu)
+
+4. [Microservices with .NET Core and Docker Episode 04 - Bandwidth Tester with Serilog and Seq](https://www.youtube.com/watch?v=xwbzNI5ymAs&list=PLuFW0YeVZv-kJyjRycyu-5R0COCbTXtIu)
+
+5. [Microservices with .NET Core and Docker Episode 05 - PostgreSQL Setup](https://www.youtube.com/watch?v=8QvVoFiYxIc&list=PLuFW0YeVZv-kJyjRycyu-5R0COCbTXtIu)
+
+6. [Microservices with .Net Core and Docker Episode 06 - Corona Virus Dashboard Part 01](https://www.youtube.com/watch?v=yd8FycqRRAk&list=PLuFW0YeVZv-kJyjRycyu-5R0COCbTXtIu)
+
+7. [Microservices with .Net Core and Docker Episode 07 - Corona Virus Dashboard Part 02](https://www.youtube.com/watch?v=nGmPHTnB8pk&list=PLuFW0YeVZv-kJyjRycyu-5R0COCbTXtIu)
+
+8. [DockerMonitoring with Grafana and .NET Core](https://www.youtube.com/watch?v=udGjA6Pxtuo&list=PLuFW0YeVZv-kJyjRycyu-5R0COCbTXtIu)
+
+**Repository :** https://github.com/DotNetMax/DockerMonitoringService
 
 ## Other Tutorials
 
