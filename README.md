@@ -228,8 +228,13 @@ If you liked this repo or if it helped you, please give a star ⭐️ for this r
 ## Other Tutorials
 
 1. [Microservices with ASP.NET Core 3.1](https://procodeguide.com/programming/microservices-asp-net-core/)
+    - [Repository](https://github.com/procodeguide/Microservices.Sample)
 
 2. [Microservices using ASP.NET Core, Ocelot, MongoDB and JWT](https://www.codeproject.com/Articles/5271708/Microservices-using-ASP-NET-Core-Ocelot-MongoDB-an)
+    - [Repository](https://github.com/aelassas/store)
+
+3. [Get Started Building Microservices with ASP.NET Core and Docker in Visual Studio Code](https://fullstackmark.com/post/12/get-started-building-microservices-with-asp.net-core-and-docker-in-visual-studio-code)
+    - [Repository](https://github.com/mmacneil/ASPNETCoreDockerMicroservices)
 
 
 
