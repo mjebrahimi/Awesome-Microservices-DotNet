@@ -235,10 +235,29 @@ If you liked this repo or if it helped you, please give a star ⭐️ for this r
 
 3. [Get Started Building Microservices with ASP.NET Core and Docker in Visual Studio Code](https://fullstackmark.com/post/12/get-started-building-microservices-with-asp.net-core-and-docker-in-visual-studio-code)
     - **Repository :** https://github.com/mmacneil/ASPNETCoreDockerMicroservices
-
-
+    
+4. [Microservices with event sourcing using .NET Core](https://medium.com/@madslundt/microservices-with-event-sourcing-using-net-core-33e3074171f5)
+    - **Repository :** https://github.com/madslundt/NetCoreMicroservicesSample
 
 ## Other Repositories
+
+- https://github.com/vietnam-devs/coolstore-microservices
+
+- https://github.com/EdwinVW/pitstop
+
+- https://github.com/chayxana/Restaurant-App
+
+- https://github.com/netcorebcn/quiz
+
+- https://github.com/twzhangyang/RestAirline
+
+- https://github.com/madslundt/NetCoreMicroservicesSample
+
+- https://github.com/asc-lab/dotnetcore-microservices-poc
+
+- https://github.com/devmentors/DNC-DShop
+
+- https://github.com/logcorner/LogCorner.EduSync.Speech.Command/
 
 ## Contribution
 
