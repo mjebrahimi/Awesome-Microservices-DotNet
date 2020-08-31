@@ -251,6 +251,14 @@ If you liked this repo or if it helped you, please give a star ⭐️ for this r
 
 - https://github.com/twzhangyang/RestAirline
 
+- https://github.com/AlexeyKramarenko/.NET-Core-Microservices
+
+- https://github.com/sandhaka/MyMicroservicesApplication
+
+- https://github.com/ImranMA/MicroCouriers
+
+- https://github.com/NHadi/HappySocialMedia
+
 - https://github.com/madslundt/NetCoreMicroservicesSample
 
 - https://github.com/asc-lab/dotnetcore-microservices-poc
