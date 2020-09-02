@@ -17,6 +17,7 @@ If you liked this repo or if it helped you, please give a star ⭐️ for this r
   - [Microservices with .NET Core and Docker](#microservices-with-net-core-and-docker)
   - [.NET Microservices Architecture Guidance (Microsoft)](#net-microservices-architecture-guidance-microsoft)
   - [A Microservices Implementation Journey](#a-microservices-implementation-journey)
+  - [Microservices and Docker with .Net Core and Azure Service Fabric](#microservices-and-docker-with-net-core-and-azure-service-fabric)
 - [Other Tutorials](#other-tutorials)
 - [Other Repositories](#other-repositories)
 - [Contribution](#contribution)
@@ -242,6 +243,20 @@ If you liked this repo or if it helped you, please give a star ⭐️ for this r
 
 **Repository :** https://github.com/aramkoukia/microservices-prototype
 
+### Microservices and Docker with .Net Core and Azure Service Fabric
+
+- [Microservices and Docker with .Net Core and Azure Service Fabric - Part One](http://elvanydev.com/Microservices-part1/)
+
+- [Microservices and Docker with .Net Core and Azure Service Fabric - Part two](http://elvanydev.com/Microservices-part2/)
+
+- [Microservices and Docker with .Net Core and Azure Service Fabric - Part three](http://elvanydev.com/Microservices-part3/)
+
+- [Microservices and Docker with .Net Core and Azure Service Fabric - Part four](http://elvanydev.com/Microservices-part4/)
+
+- [Building resilient applications with Polly](http://elvanydev.com/resilience-with-polly/)
+
+**Repository :** https://github.com/vany0114/chaos-injection-using-simmy
+
 ## Other Tutorials
 
 1. [Microservices with ASP.NET Core 3.1](https://procodeguide.com/programming/microservices-asp-net-core/)
@@ -268,13 +283,59 @@ If you liked this repo or if it helped you, please give a star ⭐️ for this r
 
 - https://github.com/twzhangyang/RestAirline
 
+- https://github.com/thangchung/practical-dapr
+
+- https://github.com/thangchung/shopping-cart-k8s
+
+- https://github.com/thangchung/ShoppingCartDemo
+
+- https://github.com/thangchung/magazine-website-akka
+
+- https://github.com/thangchung/magazine-website
+
+- https://github.com/alugili/ModernArchitectureShop
+
+- https://github.com/MarcelMichau/fake-survey-generator
+
+- https://github.com/kimcu-on-thenet/dapr-tye-simple-microservices
+
+- https://github.com/dzimchuk/book-fast-docker
+
+- https://github.com/dzimchuk/book-fast-service-fabric
+
 - https://github.com/AlexeyKramarenko/.NET-Core-Microservices
+
+- https://github.com/suadev/dotnet-istanbul-microservices-demo
 
 - https://github.com/sandhaka/MyMicroservicesApplication
 
 - https://github.com/ImranMA/MicroCouriers
 
 - https://github.com/NHadi/HappySocialMedia
+
+- https://github.com/xiajingren/NetCoreMicroserviceDemo
+
+- https://github.com/HoussemDellai/MicroservicesOnContainers
+
+- https://github.com/charlessolar/TodoMVC-DDD-CQRS-EventSourcing
+
+- https://github.com/charlessolar/eShopOnContainersDDD
+
+- https://github.com/Azure-Samples/Serverless-microservices-reference-architecture
+
+- https://github.com/fcatae/Arda
+
+- https://github.com/osstotalsoft/nbb
+
+- https://github.com/AdrienTorris/aspnet-core-simple-microservices-sample
+
+- https://github.com/MicroservicesBuildingBlocks/BuildingBlocks
+
+- https://github.com/brucehu123/Study.Microservices
+
+- https://github.com/hossambarakat/EspressoShop
+
+- https://github.com/parameshg/northwind-mesh
 
 - https://github.com/madslundt/NetCoreMicroservicesSample
 
@@ -283,6 +344,14 @@ If you liked this repo or if it helped you, please give a star ⭐️ for this r
 - https://github.com/devmentors/DNC-DShop
 
 - https://github.com/logcorner/LogCorner.EduSync.Speech.Command/
+
+- https://github.com/mmacneil/ASPNETCoreDockerMicroservices
+
+- https://github.com/aramkoukia/microservices-prototype
+
+- https://github.com/vany0114/chaos-injection-using-simmy
+
+- https://github.com/aelassas/store
 
 ## Contribution
 
