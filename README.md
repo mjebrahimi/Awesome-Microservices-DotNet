@@ -16,6 +16,7 @@ If you liked this repo or if it helped you, please give a star ⭐️ for this r
   - [.NET Conf: Focus on Microservices](#net-conf-focus-on-microservices)
   - [Microservices with .NET Core and Docker](#microservices-with-net-core-and-docker)
   - [.NET Microservices Architecture Guidance (Microsoft)](#net-microservices-architecture-guidance-microsoft)
+  - [A Microservices Implementation Journey](#a-microservices-implementation-journey)
 - [Other Tutorials](#other-tutorials)
 - [Other Repositories](#other-repositories)
 - [Contribution](#contribution)
@@ -224,6 +225,22 @@ If you liked this repo or if it helped you, please give a star ⭐️ for this r
 - [Implement Microservices Patterns with .NET Core and Docker Containers (Video)](https://channel9.msdn.com/events/Ignite/Microsoft-Ignite-Orlando-2017/BRK3317)
 
 **Repository :** https://github.com/dotnet-architecture/eShopOnContainers
+
+### A Microservices Implementation Journey
+
+- [A Microservices implementation journey — Part 1](https://koukia.ca/a-microservices-implementation-journey-part-1-9f6471fe917)
+
+- [A Microservices implementation journey — Part 2](https://koukia.ca/a-microservices-implementation-journey-part-2-10c422a4d402)
+
+- [A Microservices implementation journey — Part 3](https://koukia.ca/a-microservices-implementation-journey-part-3-50f030ba6bb5)
+
+- [A Microservices implementation journey — Part 4](https://koukia.ca/a-microservices-implementation-journey-part-4-9c19a16385e9)
+
+- [A Microservices implementation journey — Part 5](https://koukia.ca/a-microservices-implementation-journey-part-5-d7d1b9d441e7)
+
+- [A Microservices implementation journey — Part 5](https://koukia.ca/a-microservices-implementation-journey-part-6-9b818e491336)
+
+**Repository :** https://github.com/aramkoukia/microservices-prototype
 
 ## Other Tutorials
 
