@@ -17,7 +17,7 @@ If you liked this repo or if it helped you, please give a star ⭐️ for this r
   - [Microservices with .NET Core and Docker](#microservices-with-net-core-and-docker)
   - [.NET Microservices Architecture Guidance (Microsoft)](#net-microservices-architecture-guidance-microsoft)
   - [A Microservices Implementation Journey](#a-microservices-implementation-journey)
-  - [Microservices and Docker with .Net Core and Azure Service Fabric](#microservices-and-docker-with-net-core-and-azure-service-fabric)
+  - [Microservices and Docker with .Net Core and Azure Service Fabric/Kubernetes](#microservices-and-docker-with-net-core-and-azure-service-fabric-kubernetes)
 - [Other Tutorials](#other-tutorials)
 - [Other Repositories](#other-repositories)
 - [Contribution](#contribution)
@@ -243,7 +243,7 @@ If you liked this repo or if it helped you, please give a star ⭐️ for this r
 
 **Repository :** https://github.com/aramkoukia/microservices-prototype
 
-### Microservices and Docker with .Net Core and Azure Service Fabric
+### Microservices and Docker with .Net Core and Azure Service Fabric/Kubernetes
 
 - [Microservices and Docker with .Net Core and Azure Service Fabric - Part One](http://elvanydev.com/Microservices-part1/)
 
@@ -255,7 +255,7 @@ If you liked this repo or if it helped you, please give a star ⭐️ for this r
 
 - [Building resilient applications with Polly](http://elvanydev.com/resilience-with-polly/)
 
-**Repository :** https://github.com/vany0114/chaos-injection-using-simmy
+**Repository :** https://github.com/vany0114/microservices-dotnetcore-docker-sf-k8s
 
 ## Other Tutorials
 
@@ -348,6 +348,8 @@ If you liked this repo or if it helped you, please give a star ⭐️ for this r
 - https://github.com/mmacneil/ASPNETCoreDockerMicroservices
 
 - https://github.com/aramkoukia/microservices-prototype
+
+- https://github.com/vany0114/microservices-dotnetcore-docker-sf-k8s
 
 - https://github.com/vany0114/chaos-injection-using-simmy
 
