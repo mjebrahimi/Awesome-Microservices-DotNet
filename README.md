@@ -233,31 +233,31 @@ If you liked this repo or if it helped you, please give a star ⭐️ for this r
 
 ### A Microservices Implementation Journey
 
-- [A Microservices implementation journey — Part 1](https://koukia.ca/a-microservices-implementation-journey-part-1-9f6471fe917)
+1. [A Microservices implementation journey — Part 1](https://koukia.ca/a-microservices-implementation-journey-part-1-9f6471fe917)
 
-- [A Microservices implementation journey — Part 2](https://koukia.ca/a-microservices-implementation-journey-part-2-10c422a4d402)
+2. [A Microservices implementation journey — Part 2](https://koukia.ca/a-microservices-implementation-journey-part-2-10c422a4d402)
 
-- [A Microservices implementation journey — Part 3](https://koukia.ca/a-microservices-implementation-journey-part-3-50f030ba6bb5)
+3. [A Microservices implementation journey — Part 3](https://koukia.ca/a-microservices-implementation-journey-part-3-50f030ba6bb5)
 
-- [A Microservices implementation journey — Part 4](https://koukia.ca/a-microservices-implementation-journey-part-4-9c19a16385e9)
+4. [A Microservices implementation journey — Part 4](https://koukia.ca/a-microservices-implementation-journey-part-4-9c19a16385e9)
 
-- [A Microservices implementation journey — Part 5](https://koukia.ca/a-microservices-implementation-journey-part-5-d7d1b9d441e7)
+5. [A Microservices implementation journey — Part 5](https://koukia.ca/a-microservices-implementation-journey-part-5-d7d1b9d441e7)
 
-- [A Microservices implementation journey — Part 5](https://koukia.ca/a-microservices-implementation-journey-part-6-9b818e491336)
+6. [A Microservices implementation journey — Part 6](https://koukia.ca/a-microservices-implementation-journey-part-6-9b818e491336)
 
 **Repository :** https://github.com/aramkoukia/microservices-prototype
 
 ### Microservices and Docker with .Net Core and Azure Service Fabric/Kubernetes
 
-- [Microservices and Docker with .Net Core and Azure Service Fabric - Part One](http://elvanydev.com/Microservices-part1/)
+1. [Microservices and Docker with .Net Core and Azure Service Fabric - Part One](http://elvanydev.com/Microservices-part1/)
 
-- [Microservices and Docker with .Net Core and Azure Service Fabric - Part two](http://elvanydev.com/Microservices-part2/)
+2. [Microservices and Docker with .Net Core and Azure Service Fabric - Part two](http://elvanydev.com/Microservices-part2/)
 
-- [Microservices and Docker with .Net Core and Azure Service Fabric - Part three](http://elvanydev.com/Microservices-part3/)
+3. [Microservices and Docker with .Net Core and Azure Service Fabric - Part three](http://elvanydev.com/Microservices-part3/)
 
-- [Microservices and Docker with .Net Core and Azure Service Fabric - Part four](http://elvanydev.com/Microservices-part4/)
+4. [Microservices and Docker with .Net Core and Azure Service Fabric - Part four](http://elvanydev.com/Microservices-part4/)
 
-- [Building resilient applications with Polly](http://elvanydev.com/resilience-with-polly/)
+5. [Building resilient applications with Polly](http://elvanydev.com/resilience-with-polly/)
 
 **Repository :** https://github.com/vany0114/microservices-dotnetcore-docker-sf-k8s
 
