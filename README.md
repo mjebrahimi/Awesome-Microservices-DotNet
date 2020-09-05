@@ -270,6 +270,28 @@ If you liked this repo or if it helped you, please give a star ⭐️ for this r
     
 4. [Microservices with event sourcing using .NET Core](https://medium.com/@madslundt/microservices-with-event-sourcing-using-net-core-33e3074171f5)
     - **Repository :** https://github.com/madslundt/NetCoreMicroservicesSample
+	
+5. [Edwin van Wijk — Building microservices with .NET Core and Docker (Video)](https://www.youtube.com/watch?v=-AfZxdXa7yc)
+
+6. [Microservice architecture with ASP.NET Core](https://www.youtube.com/watch?v=2ooo-igyTrs)
+
+7. [Implement microservices patterns with .NET Core and Docker containers - BRK3317 (Video)](https://www.youtube.com/watch?v=1vK3TXXZ3zI)
+
+8. [Create .NET Core Microservice Using Best Practices (Video)](https://www.youtube.com/watch?v=MpQkwbq2SZ8)
+
+9. [APIs and Microservices in ASP.NET Core Today and Tomorrow - Glenn Condron (Video)](https://www.youtube.com/watch?v=dUdGcogYkss)
+
+10. [Microservices and more in .NET Core 3.0 (Video)](https://www.youtube.com/watch?v=cNdPbTB72bw)
+
+11. [Ocelot Api Gateway with ASP.NET Core 2.1 and VS Code (Video)](https://www.youtube.com/watch?v=kl-NeEAb1WQ)
+
+12. [Building Reactive Microservices with .NET Core - Kevin Hoffman, Capital One (Video)](https://www.youtube.com/watch?v=bGdar01KNzg)
+
+13. [Building .NET Microservices — Kevin Hoffmann (Video)](https://www.youtube.com/watch?v=-a8v_IRSveY)
+
+14. [Dan Wahlin on Microservices with Docker, Angular, and ASP.Net Core | Evening of Angular (Video)](https://www.youtube.com/watch?v=acykoYAgBsA)
+
+16. [Building Resilient Microservices with .NET Core and Steeltoe - Zach Brown & Matt Horan, Pivotal (Video)](https://www.youtube.com/watch?v=2HF6HFhGH60)
 
 ## Other Repositories
 
