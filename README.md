@@ -283,7 +283,7 @@ If you liked this repo or if it helped you, please give a star ⭐️ for this r
 	
 - [Edwin van Wijk — Building microservices with .NET Core and Docker (Video)](https://www.youtube.com/watch?v=-AfZxdXa7yc)
 
-- [Microservice architecture with ASP.NET Core](https://www.youtube.com/watch?v=2ooo-igyTrs)
+- [Microservice architecture with ASP.NET Core (Video)](https://www.youtube.com/watch?v=2ooo-igyTrs)
 
 - [Implement microservices patterns with .NET Core and Docker containers - BRK3317 (Video)](https://www.youtube.com/watch?v=1vK3TXXZ3zI)
 
