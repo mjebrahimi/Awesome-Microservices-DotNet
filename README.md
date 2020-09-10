@@ -302,6 +302,19 @@ If you liked this repo or if it helped you, please give a star ⭐️ for this r
 	
 - [RabbitMQ with ASP.NET Core – Microservice Communication with MassTransit](https://www.codewithmukesh.com/blog/rabbitmq-with-aspnet-core-microservice/)
     - **Repository :** https://github.com/iammukeshm/Microservices.Ticketing.WebApi
+
+- [Programming a Microservice with .Net Core 3.1](https://www.programmingwithwolfgang.com/programming-microservices-net-core-3-1/)
+    - **Repository :** https://github.com/WolfgangOfner/MicroserviceDemo
+
+- [How To Develop Microservices Using .Net Core & Docker](https://www.3pillarglobal.com/insights/develop-microservices-net-core-docker)
+
+- [Using Microservices in .Net Core and Docker container](https://medium.com/@didourebai/using-microservices-in-net-core-and-docker-container-c202785dd295)
+
+- [Microservices Using ASP.NET Core](https://www.c-sharpcorner.com/article/microservice-using-asp-net-core/)
+
+- [Microservice using ASP.NET Core](https://www.codeproject.com/Articles/1276639/Microservice-using-ASP-NET-Core)
+
+- [Microservices Using .Net Core 2.X With C# and Docker](https://dzone.com/articles/micro-services-using-net-core-2x-with-c-and-docker)
 	
 - [Edwin van Wijk — Building microservices with .NET Core and Docker (Video)](https://www.youtube.com/watch?v=-AfZxdXa7yc)
 
