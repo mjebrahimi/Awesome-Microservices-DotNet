@@ -17,7 +17,8 @@ If you liked this repo or if it helped you, please give a star ⭐️ for this r
   - [Microservices with .NET Core and Docker](#microservices-with-net-core-and-docker)
   - [.NET Microservices Architecture Guidance (Microsoft)](#net-microservices-architecture-guidance-microsoft)
   - [A Microservices Implementation Journey](#a-microservices-implementation-journey)
-  - [Microservices and Docker with .Net Core and Azure Service Fabric/Kubernetes](#microservices-and-docker-with-net-core-and-azure-service-fabric-kubernetes)
+  - [Microservices and Docker with .Net Core and Azure Service Fabric/Kubernetes](#microservices-and-docker-with-net-core-and-azure-service-fabrickubernetes)
+  - [Microservices with .NET Core Tutorials](#microservices-with-net-core-tutorials)
 - [Other Tutorials](#other-tutorials)
 - [Books](#books)
   - Building Microservices with .NET Core
@@ -269,6 +270,18 @@ If you liked this repo or if it helped you, please give a star ⭐️ for this r
 5. [Building resilient applications with Polly](http://elvanydev.com/resilience-with-polly/)
 
 **Repository :** https://github.com/vany0114/microservices-dotnetcore-docker-sf-k8s
+
+### Microservices with .NET Core Tutorials
+
+1. [Understanding Microservices Architecture](https://www.dotnettricks.com/learn/microservices/architecture-example-advantages)
+
+2. [Getting Started with Azure Service Fabric](https://www.dotnettricks.com/learn/microservices/azure-service-fabric)
+
+3. [Building a Microservice with ASP.NET Core](https://www.dotnettricks.com/learn/microservices/building-micro-services-azure-service-fabric)
+
+4. [Building an Azure Service Fabric Cluster](https://www.dotnettricks.com/learn/microservices/building-an-azure-service-fabric-cluster)
+
+5. [Microservices Deployment Patterns](https://www.dotnettricks.com/learn/microservices/deployment-patterns)
 
 ## Other Tutorials
 
