@@ -19,6 +19,7 @@ If you liked this repo or if it helped you, please give a star ⭐️ for this r
   - [A Microservices Implementation Journey](#a-microservices-implementation-journey)
   - [Microservices and Docker with .Net Core and Azure Service Fabric/Kubernetes](#microservices-and-docker-with-net-core-and-azure-service-fabric-kubernetes)
 - [Other Tutorials](#other-tutorials)
+- [Books](#books)
 - [Free eBooks](#free-ebooks)
   - .NET Microservices: Architecture for Containerized .NET Applications
   - Microservices in .NET Core (with examples in Nancy)
@@ -302,6 +303,24 @@ If you liked this repo or if it helped you, please give a star ⭐️ for this r
 - [Dan Wahlin on Microservices with Docker, Angular, and ASP.Net Core | Evening of Angular (Video)](https://www.youtube.com/watch?v=acykoYAgBsA)
 
 - [Building Resilient Microservices with .NET Core and Steeltoe - Zach Brown & Matt Horan, Pivotal (Video)](https://www.youtube.com/watch?v=2HF6HFhGH60)
+
+## Books
+
+- [Building Microservices with .NET Core](https://www.amazon.com/Building-Microservices-NET-Core-Reactive-ebook/dp/B01MQ52RM3) <small>(by Gaurav Kumar Aroraa, Lalit Kale, and Kanwar Manish)</small>
+
+- [Hands-On Software Architecture with C# 8 and .NET Core 3](https://www.amazon.com/Hands-Software-Architecture-NET-Core-ebook/dp/B081JNHSM2) <small>(by Gabriel Baptista and Francesco Abbruzzese)</small>
+
+- [Microservices by examples using .NET Core](https://www.amazon.com/Microservices-examples-using-NET-Core/dp/9387284581) <small>(by Biswa Pujarini Mohapatra, Baishakhi Banerjee, and Gaurav Aroraa)</small>
+
+- [Building Microservices with ASP.NET Core](https://www.amazon.com/Building-Microservices-ASP-NET-Core-Cross-Platform-ebook/dp/B0758YB73N) <small>(by Kevin Hoffman)</small>
+
+- [Building Microservices with .NET Core 2.0](https://www.amazon.com/Building-Microservices-NET-Core-Transitioning-ebook-dp-B075VB9YL7/dp/B075VB9YL7) <small>(by Gaurav Aroraa)</small>
+
+- [Hands-On Microservices with C#](https://www.amazon.com/Hands-Microservices-real-world-enterprise-grade-microservice-ebook/dp/B07F6YDCWG) <small>(by Matt R. Cole)</small>
+
+- [Hands-On Microservices with C# 8 and .NET Core 3](https://www.amazon.com/Hands-Microservices-NET-Core-microservices-ebook/dp/B081V8QYL9) <small>(by Gaurav Aroraa and Ed Price)</small>
+
+- [Microservices in .NET Core](https://www.amazon.com/Microservices-NET-Core-examples-Nancy/dp/1617293377) <small>(by Christian Horsdal Gammelgaard)</small>
 
 ## Free eBooks
 
