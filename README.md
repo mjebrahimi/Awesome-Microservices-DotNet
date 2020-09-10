@@ -20,6 +20,14 @@ If you liked this repo or if it helped you, please give a star ⭐️ for this r
   - [Microservices and Docker with .Net Core and Azure Service Fabric/Kubernetes](#microservices-and-docker-with-net-core-and-azure-service-fabric-kubernetes)
 - [Other Tutorials](#other-tutorials)
 - [Books](#books)
+  - Building Microservices with .NET Core
+  - Hands-On Software Architecture with C# 8 and .NET Core 3
+  - Microservices by examples using .NET Core
+  - Building Microservices with ASP.NET Core
+  - Building Microservices with .NET Core 2.0
+  - Hands-On Microservices with C#
+  - Hands-On Microservices with C# 8 and .NET Core 3
+  - Microservices in .NET Core
 - [Free eBooks](#free-ebooks)
   - .NET Microservices: Architecture for Containerized .NET Applications
   - Microservices in .NET Core (with examples in Nancy)
