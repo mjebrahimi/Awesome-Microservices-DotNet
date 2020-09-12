@@ -448,6 +448,16 @@ If you liked this repo or if it helped you, please give a star ⭐️ for this r
 
 - https://github.com/aelassas/store
 
+- https://github.com/mspnp/microservices-reference-implementation
+
+- https://github.com/SteeltoeOSS/Samples/tree/master/MusicStore
+
+- https://github.com/mohamed-abdo/vehicle-tracking-microservices
+
+- https://github.com/gfawcett22/EnterprisePlanner
+
+- https://github.com/daxnet/we-text
+
 ## Contribution
 
 Let's complete this awesome together and create the most complete resource for microservices in .NET ✌️
