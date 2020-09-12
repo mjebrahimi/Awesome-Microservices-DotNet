@@ -51,17 +51,17 @@ If you liked this repo or if it helped you, please give a star ⭐️ for this r
 
 5. [Building microservices through Event Driven Architecture part5: dockerization (Web Api Core and SQL Server Linux)](https://logcorner.com/building-microservices-through-event-driven-architecture-part5-dockerization-web-api-core-and-sql-server-linux/)
 
-6. [Building microservices through Event Driven Architecture part7: Implementing EventSourcing on Domain Model](https://logcorner.com/building-microservices-through-event-driven-architecture-part7-event-sourcing-core-domain/)
+6. [Building microservices through Event Driven Architecture part6: Implementing EventSourcing on Domain Model](https://logcorner.com/building-microservices-through-event-driven-architecture-part7-event-sourcing-core-domain/)
 
-7. [Building microservices through Event Driven Architecture part8: Implementing EventSourcing on Repositories](https://logcorner.com/building-microservices-through-event-driven-architecture-part7-implementing-eventsourcing-on-repositories/)
+7. [Building microservices through Event Driven Architecture part7: Implementing EventSourcing on Repositories](https://logcorner.com/building-microservices-through-event-driven-architecture-part7-implementing-eventsourcing-on-repositories/)
 
-8. [Building microservices through Event Driven Architecture part9: Implementing EventSourcing on Application](https://logcorner.com/building-microservices-through-event-driven-architecture-part8-implementing-eventsourcing-on-application/)
+8. [Building microservices through Event Driven Architecture part8: Implementing EventSourcing on Application](https://logcorner.com/building-microservices-through-event-driven-architecture-part8-implementing-eventsourcing-on-application/)
 
-9. [Building microservices through Event Driven Architecture part10: Handling updates](https://logcorner.com/building-microservices-through-event-driven-architecture-part10-handling-updates-and-deletes/)
+9. [Building microservices through Event Driven Architecture part09: Handling updates](https://logcorner.com/building-microservices-through-event-driven-architecture-part10-handling-updates-and-deletes/)
 
-10. [Building microservices through Event Driven Architecture part11: Run Unit tests inside a docker container](https://logcorner.com/building-microservices-through-event-driven-architecture-part11-run-unit-tests-inside-a-docker-container/)
+10. [Building microservices through Event Driven Architecture part10: Run Unit tests inside a docker container](https://logcorner.com/building-microservices-through-event-driven-architecture-part11-run-unit-tests-inside-a-docker-container/)
 
-11. [Building microservices through Event Driven Architecture part12: Continuous Integration](https://logcorner.com/building-microservices-through-event-driven-architecture-part12-continuous-integration/)
+11. [Building microservices through Event Driven Architecture part11: Continuous Integration](https://logcorner.com/building-microservices-through-event-driven-architecture-part12-continuous-integration/)
 
 **Repository :** https://github.com/logcorner/LogCorner.EduSync.Speech.Command/
 
