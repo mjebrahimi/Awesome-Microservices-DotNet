@@ -63,7 +63,9 @@ If you liked this repo or if it helped you, please give a star ⭐️ for this r
 
 11. [Building microservices through Event Driven Architecture part11: Continuous Integration](https://logcorner.com/building-microservices-through-event-driven-architecture-part12-continuous-integration/)
 
-**Repository :** https://github.com/logcorner/LogCorner.EduSync.Speech.Command/
+12. [Building microservices through Event Driven Architecture part12 : Produce events to Apache KAFKA](https://logcorner.com/building-microservices-through-event-driven-architecture-part12-produce-events-to-apache-kafka/)
+
+**Repository :** https://github.com/logcorner/LogCorner.EduSync.Speech.Command/  https://github.com/logcorner/LogCorner.EduSync.Speech.ServiceBus
 
 ### Building API Gateway Using Ocelot In ASP.NET Core 
 
