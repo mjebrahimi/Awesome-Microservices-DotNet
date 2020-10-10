@@ -340,6 +340,8 @@ If you liked this repo or if it helped you, please give a star ⭐️ for this r
 
 - [Building Resilient Microservices with .NET Core and Steeltoe - Zach Brown & Matt Horan, Pivotal (Video)](https://www.youtube.com/watch?v=2HF6HFhGH60)
 
+- [.NET Microservices with DAPR (Video)](https://www.youtube.com/watch?v=TeHVd3UlfY8)
+
 ## Books
 
 - [Building Microservices with .NET Core](https://www.amazon.com/Building-Microservices-NET-Core-Reactive-ebook/dp/B01MQ52RM3) <small>(by Gaurav Kumar Aroraa, Lalit Kale, and Kanwar Manish)</small>
