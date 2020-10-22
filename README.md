@@ -342,6 +342,8 @@ If you liked this repo or if it helped you, please give a star ⭐️ for this r
 
 - [.NET Microservices with DAPR (Video)](https://www.youtube.com/watch?v=TeHVd3UlfY8)
 
+- [Navigating microservices with .NET Core and Tye - Ryan Nowak (Video)](https://www.youtube.com/watch?v=dubHmScPNzQ)
+
 ## Books
 
 - [Building Microservices with .NET Core](https://www.amazon.com/Building-Microservices-NET-Core-Reactive-ebook/dp/B01MQ52RM3) <small>(by Gaurav Kumar Aroraa, Lalit Kale, and Kanwar Manish)</small>
