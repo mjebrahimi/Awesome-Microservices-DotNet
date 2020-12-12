@@ -346,6 +346,8 @@ If you liked this repo or if it helped you, please give a star ⭐️ for this r
 
 - [Developing and Deploying Microservices with 'Tye' (Video)](https://www.youtube.com/watch?v=_s8UdhGOGmY)
 
+- [On .NET Live - Intro to Microservice Patterns for .NET Developers (Video)](https://www.youtube.com/watch?v=zW4INO353Xg)
+
 ## Books
 
 - [Building Microservices with .NET Core](https://www.amazon.com/Building-Microservices-NET-Core-Reactive-ebook/dp/B01MQ52RM3) <small>(by Gaurav Kumar Aroraa, Lalit Kale, and Kanwar Manish)</small>
