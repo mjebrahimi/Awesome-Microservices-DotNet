@@ -19,7 +19,6 @@ If you liked this repo or if it helped you, please give a star ⭐️ for this r
   - [A Microservices Implementation Journey](#a-microservices-implementation-journey)
   - [Microservices and Docker with .Net Core and Azure Service Fabric/Kubernetes](#microservices-and-docker-with-net-core-and-azure-service-fabrickubernetes)
   - [Microservices with .NET Core Tutorials](#microservices-with-net-core-tutorials)
-- [Other Tutorials](#other-tutorials)
 - [Books](#books)
   - Building Microservices with .NET Core
   - Hands-On Software Architecture with C# 8 and .NET Core 3
@@ -45,6 +44,7 @@ If you liked this repo or if it helped you, please give a star ⭐️ for this r
   - Securing Microservices in ASP.NET Core | Pluralsight
   - Deploying ASP.NET Core Microservices Using Kubernetes and AKS | Pluralsight
   - Strategies for Microservice Scalability and Availability in ASP.NET Core | Pluralsight
+- [Other Tutorials](#other-tutorials)
 - [Other Repositories](#other-repositories)
 - [Contribution](#contribution)
 - [Licence](#license)
@@ -297,6 +297,56 @@ If you liked this repo or if it helped you, please give a star ⭐️ for this r
 
 5. [Microservices Deployment Patterns](https://www.dotnettricks.com/learn/microservices/deployment-patterns)
 
+## Books
+
+- [Building Microservices with .NET Core](https://www.amazon.com/Building-Microservices-NET-Core-Reactive-ebook/dp/B01MQ52RM3) <small>(by Gaurav Kumar Aroraa, Lalit Kale, and Kanwar Manish)</small>
+
+- [Hands-On Software Architecture with C# 8 and .NET Core 3](https://www.amazon.com/Hands-Software-Architecture-NET-Core-ebook/dp/B081JNHSM2) <small>(by Gabriel Baptista and Francesco Abbruzzese)</small>
+
+- [Microservices by examples using .NET Core](https://www.amazon.com/Microservices-examples-using-NET-Core/dp/9387284581) <small>(by Biswa Pujarini Mohapatra, Baishakhi Banerjee, and Gaurav Aroraa)</small>
+
+- [Building Microservices with ASP.NET Core](https://www.amazon.com/Building-Microservices-ASP-NET-Core-Cross-Platform-ebook/dp/B0758YB73N) <small>(by Kevin Hoffman)</small>
+
+- [Building Microservices with .NET Core 2.0](https://www.amazon.com/Building-Microservices-NET-Core-Transitioning-ebook-dp-B075VB9YL7/dp/B075VB9YL7) <small>(by Gaurav Aroraa)</small>
+
+- [Hands-On Microservices with C#](https://www.amazon.com/Hands-Microservices-real-world-enterprise-grade-microservice-ebook/dp/B07F6YDCWG) <small>(by Matt R. Cole)</small>
+
+- [Hands-On Microservices with C# 8 and .NET Core 3](https://www.amazon.com/Hands-Microservices-NET-Core-microservices-ebook/dp/B081V8QYL9) <small>(by Gaurav Aroraa and Ed Price)</small>
+
+- [Microservices in .NET Core](https://www.amazon.com/Microservices-NET-Core-examples-Nancy/dp/1617293377) <small>(by Christian Horsdal Gammelgaard)</small>
+
+## Free eBooks
+
+- [.NET Microservices: Architecture for Containerized .NET Applications](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/) - [Download PDF](https://aka.ms/microservicesebook)
+
+- [Microservices in .NET Core (with examples in Nancy)](https://livebook.manning.com/book/microservices-in-net-core/about-this-book/) - [Manning Publications](https://www.manning.com/books/microservices-in-net-core)
+
+- [Microservices Recipes (a free gitbook)](https://github.com/vaquarkhan/microservices-recipes-a-free-gitbook)
+
+## Courses
+
+- [.NET Core Microservices | Udemy](https://www.udemy.com/course/net-core-microservices/) - ([Packt](https://www.packtpub.com/product/net-core-microservices-video/9781788626415))
+
+- [Microservices Architecture and Implementation on .NET 5 | Udemy](https://www.udemy.com/course/microservices-architecture-and-implementation-on-dotnet/)
+
+- [Building Microservices using ASP.NET Core 5.0 and Docker | Udemy](https://www.udemy.com/course/microservices-using-aspnet-core-5-and-docker-rabbitmq-facedetection/)
+
+- [Getting Started .NET Core Microservices RabbitMQ | Udemy](https://www.udemy.com/course/getting-started-net-core-microservices-rabbitmq/)
+
+- [Build Microservices with .NET Core & Amazon Web Services | Udemy](https://www.udemy.com/course/build-microservices-with-aspnet-core-amazon-web-services/)
+
+- [ASP.NET Core Microservices: Getting Started | Pluralsight](https://www.pluralsight.com/courses/getting-started-asp-dot-net-core-microservices)
+
+- [Microservices Communication in ASP.NET Core | Pluralsight](https://www.pluralsight.com/courses/microservices-communication-asp-dot-net-core)
+
+- [Versioning and Evolving Microservices in ASP.NET Core | Pluralsight](https://www.pluralsight.com/courses/versioning-evolving-microservices-asp-dot-net-core)
+
+- [Securing Microservices in ASP.NET Core | Pluralsight](https://www.pluralsight.com/courses/securing-microservices-asp-dot-net-core)
+
+- [Deploying ASP.NET Core Microservices Using Kubernetes and AKS | Pluralsight](https://www.pluralsight.com/courses/deploying-asp-dot-net-core-microservices-kubernetes-aks)
+
+- [Strategies for Microservice Scalability and Availability in ASP.NET Core | Pluralsight](https://www.pluralsight.com/courses/strategies-microservice-scalability-availability-asp-dot-net-core)
+
 ## Other Tutorials
 
 - [Microservices with ASP.NET Core 3.1](https://procodeguide.com/programming/microservices-asp-net-core/)
@@ -359,56 +409,6 @@ If you liked this repo or if it helped you, please give a star ⭐️ for this r
 - [Developing and Deploying Microservices with 'Tye' (Video)](https://www.youtube.com/watch?v=_s8UdhGOGmY)
 
 - [On .NET Live - Intro to Microservice Patterns for .NET Developers (Video)](https://www.youtube.com/watch?v=zW4INO353Xg)
-
-## Books
-
-- [Building Microservices with .NET Core](https://www.amazon.com/Building-Microservices-NET-Core-Reactive-ebook/dp/B01MQ52RM3) <small>(by Gaurav Kumar Aroraa, Lalit Kale, and Kanwar Manish)</small>
-
-- [Hands-On Software Architecture with C# 8 and .NET Core 3](https://www.amazon.com/Hands-Software-Architecture-NET-Core-ebook/dp/B081JNHSM2) <small>(by Gabriel Baptista and Francesco Abbruzzese)</small>
-
-- [Microservices by examples using .NET Core](https://www.amazon.com/Microservices-examples-using-NET-Core/dp/9387284581) <small>(by Biswa Pujarini Mohapatra, Baishakhi Banerjee, and Gaurav Aroraa)</small>
-
-- [Building Microservices with ASP.NET Core](https://www.amazon.com/Building-Microservices-ASP-NET-Core-Cross-Platform-ebook/dp/B0758YB73N) <small>(by Kevin Hoffman)</small>
-
-- [Building Microservices with .NET Core 2.0](https://www.amazon.com/Building-Microservices-NET-Core-Transitioning-ebook-dp-B075VB9YL7/dp/B075VB9YL7) <small>(by Gaurav Aroraa)</small>
-
-- [Hands-On Microservices with C#](https://www.amazon.com/Hands-Microservices-real-world-enterprise-grade-microservice-ebook/dp/B07F6YDCWG) <small>(by Matt R. Cole)</small>
-
-- [Hands-On Microservices with C# 8 and .NET Core 3](https://www.amazon.com/Hands-Microservices-NET-Core-microservices-ebook/dp/B081V8QYL9) <small>(by Gaurav Aroraa and Ed Price)</small>
-
-- [Microservices in .NET Core](https://www.amazon.com/Microservices-NET-Core-examples-Nancy/dp/1617293377) <small>(by Christian Horsdal Gammelgaard)</small>
-
-## Free eBooks
-
-- [.NET Microservices: Architecture for Containerized .NET Applications](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/) - [Download PDF](https://aka.ms/microservicesebook)
-
-- [Microservices in .NET Core (with examples in Nancy)](https://livebook.manning.com/book/microservices-in-net-core/about-this-book/) - [Manning Publications](https://www.manning.com/books/microservices-in-net-core)
-
-- [Microservices Recipes (a free gitbook)](https://github.com/vaquarkhan/microservices-recipes-a-free-gitbook)
-
-## Courses
-
-- [.NET Core Microservices | Udemy](https://www.udemy.com/course/net-core-microservices/) - ([Packt](https://www.packtpub.com/product/net-core-microservices-video/9781788626415))
-
-- [Microservices Architecture and Implementation on .NET 5 | Udemy](https://www.udemy.com/course/microservices-architecture-and-implementation-on-dotnet/)
-
-- [Building Microservices using ASP.NET Core 5.0 and Docker | Udemy](https://www.udemy.com/course/microservices-using-aspnet-core-5-and-docker-rabbitmq-facedetection/)
-
-- [Getting Started .NET Core Microservices RabbitMQ | Udemy](https://www.udemy.com/course/getting-started-net-core-microservices-rabbitmq/)
-
-- [Build Microservices with .NET Core & Amazon Web Services | Udemy](https://www.udemy.com/course/build-microservices-with-aspnet-core-amazon-web-services/)
-
-- [ASP.NET Core Microservices: Getting Started | Pluralsight](https://www.pluralsight.com/courses/getting-started-asp-dot-net-core-microservices)
-
-- [Microservices Communication in ASP.NET Core | Pluralsight](https://www.pluralsight.com/courses/microservices-communication-asp-dot-net-core)
-
-- [Versioning and Evolving Microservices in ASP.NET Core | Pluralsight](https://www.pluralsight.com/courses/versioning-evolving-microservices-asp-dot-net-core)
-
-- [Securing Microservices in ASP.NET Core | Pluralsight](https://www.pluralsight.com/courses/securing-microservices-asp-dot-net-core)
-
-- [Deploying ASP.NET Core Microservices Using Kubernetes and AKS | Pluralsight](https://www.pluralsight.com/courses/deploying-asp-dot-net-core-microservices-kubernetes-aks)
-
-- [Strategies for Microservice Scalability and Availability in ASP.NET Core | Pluralsight](https://www.pluralsight.com/courses/strategies-microservice-scalability-availability-asp-dot-net-core)
 
 ## Other Repositories
 
