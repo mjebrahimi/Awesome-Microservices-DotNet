@@ -1,10 +1,10 @@
-# Awesome Microservices .NET Core [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+# Awesome Microservices .NET Core [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://makeapullrequest.com)
 
     The Best Resources for Microservices in .NET Core
 
 ## Give a Star! ⭐️
 
-If you liked this repo or if it helped you, please give a star ⭐️ for this repository. That will not only help strengthen our .NET community but also improve skills about the Microservices for .NET developers around the world. Thank you very much 👍
+If you liked this repo or if it helped you, please give a star ⭐️ for this repository. That will not only help strengthen our .NET community but also improve skills about the Microservices for .NET developers around the world 👍. Thank you very much.
 
 ## Contents
 - [Training Series](#training-series)
@@ -273,15 +273,15 @@ If you liked this repo or if it helped you, please give a star ⭐️ for this r
 
 ### Microservices and Docker with .Net Core and Azure Service Fabric/Kubernetes
 
-1. [Microservices and Docker with .Net Core and Azure Service Fabric - Part One](http://elvanydev.com/Microservices-part1/)
+1. [Microservices and Docker with .Net Core and Azure Service Fabric - Part One](https://elvanydev.com/Microservices-part1/)
 
-2. [Microservices and Docker with .Net Core and Azure Service Fabric - Part two](http://elvanydev.com/Microservices-part2/)
+2. [Microservices and Docker with .Net Core and Azure Service Fabric - Part two](https://elvanydev.com/Microservices-part2/)
 
-3. [Microservices and Docker with .Net Core and Azure Service Fabric - Part three](http://elvanydev.com/Microservices-part3/)
+3. [Microservices and Docker with .Net Core and Azure Service Fabric - Part three](https://elvanydev.com/Microservices-part3/)
 
-4. [Microservices and Docker with .Net Core and Azure Service Fabric - Part four](http://elvanydev.com/Microservices-part4/)
+4. [Microservices and Docker with .Net Core and Azure Service Fabric - Part four](https://elvanydev.com/Microservices-part4/)
 
-5. [Building resilient applications with Polly](http://elvanydev.com/resilience-with-polly/)
+5. [Building resilient applications with Polly](https://elvanydev.com/resilience-with-polly/)
 
 **Repository :** https://github.com/vany0114/microservices-dotnetcore-docker-sf-k8s
 
@@ -515,6 +515,6 @@ Feel free to open an issue or create a pull request with your additions.
 
 ## License
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Mohammad Javad Ebrahimi](https://github.com/mjebrahimi/) has waived all copyright and related or neighboring rights to this work.
