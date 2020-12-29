@@ -410,6 +410,8 @@ If you liked this repo or if it helped you, please give a star ⭐️ for this r
 
 - [On .NET Live - Intro to Microservice Patterns for .NET Developers (Video)](https://www.youtube.com/watch?v=zW4INO353Xg)
 
+- [Splitting up a Monolith to (micro)Services by CodeOpinion (Video)](https://www.youtube.com/watch?v=Inscvakv5XI)
+
 ## Other Repositories
 
 - https://github.com/vietnam-devs/coolstore-microservices
