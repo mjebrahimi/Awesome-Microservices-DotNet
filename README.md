@@ -412,6 +412,8 @@ If you liked this repo or if it helped you, please give a star ⭐️ for this r
 
 - [Splitting up a Monolith to (micro)Services by CodeOpinion (Video)](https://www.youtube.com/watch?v=Inscvakv5XI)
 
+- [START with a Monolith, NOT Microservices by CodeOpinion (Video)](https://www.youtube.com/watch?v=Z_pj1mUDKdw)
+
 ## Other Repositories
 
 - https://github.com/vietnam-devs/coolstore-microservices
