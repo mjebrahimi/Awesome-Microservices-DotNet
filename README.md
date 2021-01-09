@@ -370,6 +370,9 @@ If you liked this repo or if it helped you, please give a star ⭐️ for this r
 - [Programming a Microservice with .Net Core 3.1](https://www.programmingwithwolfgang.com/programming-microservices-net-core-3-1/)
     - **Repository :** https://github.com/WolfgangOfner/MicroserviceDemo
 
+- [Microservices Architecture on .NET with applying CQRS, Clean Architecture and Event-Driven Communication](https://medium.com/aspnetrun/microservices-architecture-on-net-3b4865eea03f)
+	- **Repository :** https://github.com/aspnetrun/run-aspnetcore-microservices
+
 - [How To Develop Microservices Using .Net Core & Docker](https://www.3pillarglobal.com/insights/develop-microservices-net-core-docker)
 
 - [Using Microservices in .Net Core and Docker container](https://medium.com/@didourebai/using-microservices-in-net-core-and-docker-container-c202785dd295)
@@ -511,6 +514,8 @@ If you liked this repo or if it helped you, please give a star ⭐️ for this r
 - https://github.com/PacktPublishing/.NET-Core-Microservices
 
 - https://github.com/snatch-dev/Convey
+
+- https://github.com/johnph/simple-transaction
 
 ## Contribution
 
