@@ -1,6 +1,6 @@
 # Awesome Microservices .NET Core [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://makeapullrequest.com)
 
-    💎 A collection of awesome training series, articles, videos, books, courses, and sample projects for learning Microservices in .NET Core
+> 💎 A collection of awesome training series, articles, videos, books, courses, sample projects, and tools for Microservices in .NET Core
 
 ## Give a Star! ⭐️
 
