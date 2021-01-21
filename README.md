@@ -12,7 +12,8 @@ If you liked this repo or if it helped you, please give a star ⭐️ for this r
 - [Free eBooks](#free-ebooks)
 - [Courses](#courses)
 - [Other Tutorials](#other-tutorials)
-- [Other Repositories](#other-repositories)
+- [Sample Projects](#sample-projects)
+- [Tools and Libraries](#tools-and-libraries)
 - [Contribution](#contribution)
 - [Licence](#license)
 
@@ -384,7 +385,7 @@ If you liked this repo or if it helped you, please give a star ⭐️ for this r
 
 - [START with a Monolith, NOT Microservices by CodeOpinion (Video)](https://www.youtube.com/watch?v=Z_pj1mUDKdw)
 
-## Other Repositories
+## Sample Projects
 
 - https://github.com/vietnam-devs/coolstore-microservices
 
@@ -484,12 +485,38 @@ If you liked this repo or if it helped you, please give a star ⭐️ for this r
 
 - https://github.com/johnph/simple-transaction
 
+## Tools and Libraries
+
+### Messaging
+- [MassTransit](https://github.com/MassTransit/MassTransit) - Distributed Application Framework for .NET
+- [NServiceBus](https://github.com/Particular/NServiceBus) - The most popular service bus for .NET
+- [Rebus](https://github.com/rebus-org/Rebus) - Simple and lean service bus implementation for .NET
+- [Kafka](https://github.com/confluentinc/confluent-kafka-dotnet/) - Confluent's Apache Kafka .NET client
+- [RabbitMQ](https://github.com/rabbitmq/rabbitmq-dotnet-client) - RabbitMQ .NET client for .NET Standard 2.0+ and .NET 4.6.1+
+- [EasyNetQ](https://github.com/EasyNetQ/EasyNetQ) - An easy to use .NET API for RabbitMQ
+- [ZeroMQ](https://github.com/zeromq/netmq) - A 100% native C# implementation of ZeroMQ for .NET
+- [CAP](https://github.com/dotnetcore/CAP) - Distributed transaction solution in micro-service base on eventually consistency, also an eventbus with Outbox pattern
+- [Brighter](https://github.com/BrighterCommand/Brighter) - Command Dispatcher, Processor, and Distributed Task Queue
+
+### Api Gateway
+- [Ocelot](https://github.com/ThreeMammals/Ocelot) - .NET core API Gateway
+- [YARP](https://github.com/microsoft/reverse-proxy) - YARP (which stands for "YARP: A Reverse Proxy") is a toolkit for developing high-performance HTTP reverse proxy applications
+
+### Service Discovery
+- [Consul.NET](https://github.com/G-Research/consuldotnet) - Consul.NET is a .NET client library for the [HashiCorp Consul](https://github.com/hashicorp/consul) HTTP API
+
+### Framework
+- [Microdot](https://github.com/gigya/microdot) - An Open Source .NET Microservices Framework
+
+### Other
+- [Dapr](https://github.com/dapr/dotnet-sdk) - Dapr SDK for .NET ([Dapr](https://github.com/dapr/dapr) is a portable, event-driven, serverless runtime for building distributed applications)
+- [Project Tye](https://github.com/dotnet/tye) - Tye is a tool that makes developing, testing, and deploying microservices and distributed applications easier
+- [Health Checks](https://github.com/xabaril/AspNetCore.Diagnostics.HealthChecks) - Enterprise HealthChecks for ASP.NET Core Diagnostics Package
+
+
 ## Contribution
 
-Let's complete this awesome together and create the most complete resource for microservices in .NET ✌️
-
-Feel free to open an issue or create a pull request with your additions.
-
+Contributions are always welcome! Feel free to open an [issue](https://github.com/mjebrahimi/Awesome-Microservices-NetCore/issues/new) or create a pull request.
 
 ## License
 
