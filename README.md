@@ -485,6 +485,8 @@ If you liked this repo or if it helped you, please give a star ⭐️ for this r
 
 - https://github.com/johnph/simple-transaction
 
+- https://github.com/cloudnative-netcore/modernstore
+
 ## Tools and Libraries
 
 ### Messaging
