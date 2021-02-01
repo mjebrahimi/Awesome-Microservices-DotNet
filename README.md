@@ -277,21 +277,21 @@ September 2018-October 2018
 
 ## Books
 
-- [Building Microservices with .NET Core](https://www.amazon.com/Building-Microservices-NET-Core-Reactive-ebook/dp/B01MQ52RM3) <small>(by Gaurav Kumar Aroraa, Lalit Kale, and Kanwar Manish)</small>
+- [Building Microservices with .NET Core](https://www.amazon.com/Building-Microservices-NET-Core-Reactive-ebook/dp/B01MQ52RM3) <small>(by Gaurav Kumar Aroraa, Lalit Kale, and Kanwar Manish) June 14, 2017</small>
 
-- [Hands-On Software Architecture with C# 8 and .NET Core 3](https://www.amazon.com/Hands-Software-Architecture-NET-Core-ebook/dp/B081JNHSM2) <small>(by Gabriel Baptista and Francesco Abbruzzese)</small>
+- [Hands-On Software Architecture with C# 8 and .NET Core 3](https://www.amazon.com/Hands-Software-Architecture-NET-Core-ebook/dp/B081JNHSM2) <small>(by Gabriel Baptista and Francesco Abbruzzese) November 29, 2019</small>
 
-- [Microservices by examples using .NET Core](https://www.amazon.com/Microservices-examples-using-NET-Core/dp/9387284581) <small>(by Biswa Pujarini Mohapatra, Baishakhi Banerjee, and Gaurav Aroraa)</small>
+- [Microservices by examples using .NET Core](https://www.amazon.com/Microservices-examples-using-NET-Core/dp/9387284581) <small>(by Biswa Pujarini Mohapatra, Baishakhi Banerjee, and Gaurav Aroraa) April 16, 2019</small>
 
-- [Building Microservices with ASP.NET Core](https://www.amazon.com/Building-Microservices-ASP-NET-Core-Cross-Platform-ebook/dp/B0758YB73N) <small>(by Kevin Hoffman)</small>
+- [Building Microservices with ASP.NET Core](https://www.amazon.com/Building-Microservices-ASP-NET-Core-Cross-Platform-ebook/dp/B0758YB73N) <small>(by Kevin Hoffman) August 31, 2017</small>
 
-- [Building Microservices with .NET Core 2.0](https://www.amazon.com/Building-Microservices-NET-Core-Transitioning-ebook-dp-B075VB9YL7/dp/B075VB9YL7) <small>(by Gaurav Aroraa)</small>
+- [Building Microservices with .NET Core 2.0](https://www.amazon.com/Building-Microservices-NET-Core-Transitioning-ebook-dp-B075VB9YL7/dp/B075VB9YL7) <small>(by Gaurav Aroraa) December 22, 2017</small>
 
-- [Hands-On Microservices with C#](https://www.amazon.com/Hands-Microservices-real-world-enterprise-grade-microservice-ebook/dp/B07F6YDCWG) <small>(by Matt R. Cole)</small>
+- [Hands-On Microservices with C#](https://www.amazon.com/Hands-Microservices-real-world-enterprise-grade-microservice-ebook/dp/B07F6YDCWG) <small>(by Matt R. Cole) June 29, 2018</small>
 
-- [Hands-On Microservices with C# 8 and .NET Core 3](https://www.amazon.com/Hands-Microservices-NET-Core-microservices-ebook/dp/B081V8QYL9) <small>(by Gaurav Aroraa and Ed Price)</small>
+- [Hands-On Microservices with C# 8 and .NET Core 3](https://www.amazon.com/Hands-Microservices-NET-Core-microservices/dp/1789617944) <small>(by Gaurav Aroraa and Ed Price) March 27, 2020</small>
 
-- [Microservices in .NET Core](https://www.amazon.com/Microservices-NET-Core-examples-Nancy/dp/1617293377) <small>(by Christian Horsdal Gammelgaard)</small>
+- [Microservices in .NET Core](https://www.amazon.com/Microservices-NET-Core-examples-Nancy/dp/1617293377) <small>(by Christian Horsdal Gammelgaard) February 3, 2017</small>
 
 ## Free eBooks
 
