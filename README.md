@@ -19,7 +19,8 @@ If you liked this repo or if it helped you, please give a star ⭐️ for this r
 
 ## Training Series
 
-### Building Microservices On .NET Core
+### Building Microservices On .NET Core 
+January 2019-September 2019
 
 1. [Building Microservices On .NET Core – Part 1 The Plan](https://altkomsoftware.pl/en/blog/building-microservices-net-core-part-1-plan/)
 
@@ -37,7 +38,8 @@ If you liked this repo or if it helped you, please give a star ⭐️ for this r
 
 **Repository :** https://github.com/asc-lab/dotnetcore-microservices-poc
 
-### Building microservices through Event Driven Architecture
+### Building microservices through Event Driven Architecture 
+January 2019-
 
 1. [Building microservices through Event Driven Architecture part1 : application specific business rules](https://logcorner.com/building-microservices-through-event-driven-architecture-part1-application-specific-business-rules/)
 
@@ -65,7 +67,8 @@ If you liked this repo or if it helped you, please give a star ⭐️ for this r
 
 **Repository :** https://github.com/logcorner/LogCorner.EduSync.Speech.Command/  https://github.com/logcorner/LogCorner.EduSync.Speech.ServiceBus
 
-### Building API Gateway Using Ocelot In ASP.NET Core 
+### Building API Gateway Using Ocelot In ASP.NET Core
+November 2017-August 2019
 
 1. [Building API Gateway Using Ocelot In ASP.NET Core](https://www.c-sharpcorner.com/article/building-api-gateway-using-ocelot-in-asp-net-core/)
 
@@ -88,6 +91,7 @@ If you liked this repo or if it helped you, please give a star ⭐️ for this r
 **Repository :** https://github.com/catcherwong-archive/APIGatewayDemo
 
 ### Distributed .NET Core (DShop)
+December 2018-April 2019
 
 1. [Distributed .NET Core (DShop) - Teaser](https://www.youtube.com/watch?v=6YYB8vv3pZg&list=PLqqD43D6Mqz38LoZEuo_hJAp2NxXskcut)
 
@@ -124,6 +128,7 @@ If you liked this repo or if it helped you, please give a star ⭐️ for this r
 **Repository :** https://github.com/devmentors/DNC-DShop
 
 ### Microservices .NET
+May 2020-August 2020
 
 1. [Meet Pacco & Microservices .NET!](https://www.youtube.com/watch?v=5SLyrETnJoE&list=PLqqD43D6Mqz1LNS7bqFhAJNfmVfQ077hz)
 
@@ -146,6 +151,7 @@ If you liked this repo or if it helped you, please give a star ⭐️ for this r
 **Repository :** https://github.com/devmentors/Pacco
 
 ### .NET Conf: Focus on Microservices
+August 2020
 
 1. [Welcome to .NET Conf: Focus on Microservices](https://www.youtube.com/watch?v=ZEvoxXnsbbU&list=PLdo4fOcmZ0oUc2ShrReCS7KoBbPEONE0p)
 
@@ -192,6 +198,7 @@ If you liked this repo or if it helped you, please give a star ⭐️ for this r
 **Repository :** https://github.com/dotnet-presentations/dotNETConf/tree/master/2020/FocusOnMicroservices
 
 ### Microservices with .NET Core and Docker
+March 2020-June 2020
 
 1. [Microservices with .NET Core and Docker Episode 1](https://www.youtube.com/watch?v=P5alkeFH8aU&list=PLuFW0YeVZv-kJyjRycyu-5R0COCbTXtIu)
 
@@ -224,6 +231,7 @@ If you liked this repo or if it helped you, please give a star ⭐️ for this r
 **Repository :** https://github.com/dotnet-architecture/eShopOnContainers
 
 ### A Microservices Implementation Journey
+January 2018-March 2018
 
 1. [A Microservices implementation journey — Part 1](https://koukia.ca/a-microservices-implementation-journey-part-1-9f6471fe917)
 
@@ -240,6 +248,7 @@ If you liked this repo or if it helped you, please give a star ⭐️ for this r
 **Repository :** https://github.com/aramkoukia/microservices-prototype
 
 ### Microservices and Docker with .Net Core and Azure Service Fabric/Kubernetes
+February 2018-September 2018
 
 1. [Microservices and Docker with .Net Core and Azure Service Fabric - Part One](https://elvanydev.com/Microservices-part1/)
 
@@ -254,6 +263,7 @@ If you liked this repo or if it helped you, please give a star ⭐️ for this r
 **Repository :** https://github.com/vany0114/microservices-dotnetcore-docker-sf-k8s
 
 ### Microservices with .NET Core Tutorials
+September 2018-October 2018
 
 1. [Understanding Microservices Architecture](https://www.dotnettricks.com/learn/microservices/architecture-example-advantages)
 
@@ -267,21 +277,21 @@ If you liked this repo or if it helped you, please give a star ⭐️ for this r
 
 ## Books
 
-- [Building Microservices with .NET Core](https://www.amazon.com/Building-Microservices-NET-Core-Reactive-ebook/dp/B01MQ52RM3) <small>(by Gaurav Kumar Aroraa, Lalit Kale, and Kanwar Manish)</small>
+- [Building Microservices with .NET Core](https://www.amazon.com/Building-Microservices-NET-Core-Reactive-ebook/dp/B01MQ52RM3) <small>(by Gaurav Kumar Aroraa, Lalit Kale, and Kanwar Manish) June 14, 2017</small>
 
-- [Hands-On Software Architecture with C# 8 and .NET Core 3](https://www.amazon.com/Hands-Software-Architecture-NET-Core-ebook/dp/B081JNHSM2) <small>(by Gabriel Baptista and Francesco Abbruzzese)</small>
+- [Hands-On Software Architecture with C# 8 and .NET Core 3](https://www.amazon.com/Hands-Software-Architecture-NET-Core-ebook/dp/B081JNHSM2) <small>(by Gabriel Baptista and Francesco Abbruzzese) November 29, 2019</small>
 
-- [Microservices by examples using .NET Core](https://www.amazon.com/Microservices-examples-using-NET-Core/dp/9387284581) <small>(by Biswa Pujarini Mohapatra, Baishakhi Banerjee, and Gaurav Aroraa)</small>
+- [Microservices by examples using .NET Core](https://www.amazon.com/Microservices-examples-using-NET-Core/dp/9387284581) <small>(by Biswa Pujarini Mohapatra, Baishakhi Banerjee, and Gaurav Aroraa) April 16, 2019</small>
 
-- [Building Microservices with ASP.NET Core](https://www.amazon.com/Building-Microservices-ASP-NET-Core-Cross-Platform-ebook/dp/B0758YB73N) <small>(by Kevin Hoffman)</small>
+- [Building Microservices with ASP.NET Core](https://www.amazon.com/Building-Microservices-ASP-NET-Core-Cross-Platform-ebook/dp/B0758YB73N) <small>(by Kevin Hoffman) August 31, 2017</small>
 
-- [Building Microservices with .NET Core 2.0](https://www.amazon.com/Building-Microservices-NET-Core-Transitioning-ebook-dp-B075VB9YL7/dp/B075VB9YL7) <small>(by Gaurav Aroraa)</small>
+- [Building Microservices with .NET Core 2.0](https://www.amazon.com/Building-Microservices-NET-Core-Transitioning-ebook-dp-B075VB9YL7/dp/B075VB9YL7) <small>(by Gaurav Aroraa) December 22, 2017</small>
 
-- [Hands-On Microservices with C#](https://www.amazon.com/Hands-Microservices-real-world-enterprise-grade-microservice-ebook/dp/B07F6YDCWG) <small>(by Matt R. Cole)</small>
+- [Hands-On Microservices with C#](https://www.amazon.com/Hands-Microservices-real-world-enterprise-grade-microservice-ebook/dp/B07F6YDCWG) <small>(by Matt R. Cole) June 29, 2018</small>
 
-- [Hands-On Microservices with C# 8 and .NET Core 3](https://www.amazon.com/Hands-Microservices-NET-Core-microservices-ebook/dp/B081V8QYL9) <small>(by Gaurav Aroraa and Ed Price)</small>
+- [Hands-On Microservices with C# 8 and .NET Core 3](https://www.amazon.com/Hands-Microservices-NET-Core-microservices/dp/1789617944) <small>(by Gaurav Aroraa and Ed Price) March 27, 2020</small>
 
-- [Microservices in .NET Core](https://www.amazon.com/Microservices-NET-Core-examples-Nancy/dp/1617293377) <small>(by Christian Horsdal Gammelgaard)</small>
+- [Microservices in .NET Core](https://www.amazon.com/Microservices-NET-Core-examples-Nancy/dp/1617293377) <small>(by Christian Horsdal Gammelgaard) February 3, 2017</small>
 
 ## Free eBooks
 
