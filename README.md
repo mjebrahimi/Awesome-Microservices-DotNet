@@ -519,7 +519,7 @@ September 2018-October 2018
 
 ### Framework
 - [Microdot](https://github.com/gigya/microdot) - An Open Source .NET Microservices Framework
-- [ABP](https://github.com/abpframework/abp) - Microservice compatible opensSource web application framework for ASP.NET Core
+- [ABP](https://github.com/abpframework/abp) - Microservice compatible open source web application framework for ASP.NET Core
 
 ### Other
 - [Dapr](https://github.com/dapr/dotnet-sdk) - Dapr SDK for .NET ([Dapr](https://github.com/dapr/dapr) is a portable, event-driven, serverless runtime for building distributed applications)
