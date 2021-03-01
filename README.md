@@ -275,6 +275,25 @@ September 2018-October 2018
 
 5. [Microservices Deployment Patterns](https://www.dotnettricks.com/learn/microservices/deployment-patterns)
 
+### Building Microservices on .Net platforms
+May 2020
+
+1. [Microservices Architecture on .NET with applying CQRS, Clean Architecture and Event-Driven Communication](https://medium.com/aspnetrun/microservices-architecture-on-net-3b4865eea03f)
+
+2. [Microservices Using ASP.NET Core, MongoDB and Docker Container](https://medium.com/aspnetrun/build-catalog-microservice-using-asp-net-core-mongodb-and-docker-container-88b8fd4d5040)
+
+3. [Using Redis with ASP.NET Core, and Docker Container for Basket Microservices](https://medium.com/aspnetrun/using-redis-with-asp-net-core-and-docker-container-for-basket-microservices-715ff739186e)
+
+4. [Building Ocelot API Gateway Microservices with ASP.NET Core and Docker Container](https://medium.com/aspnetrun/building-ocelot-api-gateway-microservices-with-asp-net-core-and-docker-container-13f96026e86c)
+
+5. [Microservices Event Driven Architecture with RabbitMQ and Docker Container on .NET](https://medium.com/aspnetrun/microservices-event-driven-architecture-with-rabbitmq-and-docker-container-on-net-968d73052cbb)
+
+6. [CQRS and Event Sourcing in Event Driven Architecture of Ordering Microservices](https://medium.com/aspnetrun/cqrs-and-event-sourcing-in-event-driven-architecture-of-ordering-microservices-fb67dc44da7a)
+
+7. [AspnetRun Microservices Renewed !](https://mehmetozkaya.medium.com/aspnetrun-microservices-renewed-d08901b5e06f)
+
+**Repository :** https://github.com/aspnetrun/run-aspnetcore-microservices
+
 ## Books
 
 - [Building Microservices with .NET Core](https://www.amazon.com/Building-Microservices-NET-Core-Reactive-ebook/dp/B01MQ52RM3) <small>(by Gaurav Kumar Aroraa, Lalit Kale, and Kanwar Manish) June 14, 2017</small>
@@ -348,16 +367,17 @@ September 2018-October 2018
 - [Programming a Microservice with .Net Core 3.1](https://www.programmingwithwolfgang.com/programming-microservices-net-core-3-1/)
     - **Repository :** https://github.com/WolfgangOfner/MicroserviceDemo
 
-- [Microservices Architecture on .NET with applying CQRS, Clean Architecture and Event-Driven Communication](https://medium.com/aspnetrun/microservices-architecture-on-net-3b4865eea03f)
-	- **Repository :** https://github.com/aspnetrun/run-aspnetcore-microservices
+- [Securing Microservices with IdentityServer4, OAuth2 and OpenID Connect fronted by Ocelot API Gateway](https://medium.com/aspnetrun/securing-microservices-with-identityserver4-with-oauth2-and-openid-connect-fronted-by-ocelot-api-49ea44a0cf9e)
+    - **Repository :** https://github.com/aspnetrun/run-aspnet-identityserver4
+
+- [Using gRPC in Microservices for Building a high-performance Interservice Communication with .Net 5](https://medium.com/aspnetrun/using-grpc-in-microservices-for-building-a-high-performance-interservice-communication-with-net-5-11f3e5fa0e9d)
+    - **Repository :** https://github.com/aspnetrun/run-aspnet-grpc
 
 - [How To Develop Microservices Using .Net Core & Docker](https://www.3pillarglobal.com/insights/develop-microservices-net-core-docker)
 
 - [Using Microservices in .Net Core and Docker container](https://medium.com/@didourebai/using-microservices-in-net-core-and-docker-container-c202785dd295)
 
 - [Microservices Using ASP.NET Core](https://www.c-sharpcorner.com/article/microservice-using-asp-net-core/)
-
-- [Microservice using ASP.NET Core](https://www.codeproject.com/Articles/1276639/Microservice-using-ASP-NET-Core)
 
 - [Microservices Using .Net Core 2.X With C# and Docker](https://dzone.com/articles/micro-services-using-net-core-2x-with-c-and-docker)
 	
