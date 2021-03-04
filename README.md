@@ -372,6 +372,11 @@ May 2020
 
 - [Using gRPC in Microservices for Building a high-performance Interservice Communication with .Net 5](https://medium.com/aspnetrun/using-grpc-in-microservices-for-building-a-high-performance-interservice-communication-with-net-5-11f3e5fa0e9d)
     - **Repository :** https://github.com/aspnetrun/run-aspnet-grpc
+    
+- **Our first Microservice with .NET Core 3.1**
+    - [Our first Microservice with .NET Core 3.1 - First Part](https://medium.com/proscai-x/our-first-microservice-with-net-core-3-1-first-part-884fd46853ea)
+    - [Containerizing your First NetCore MicroService with Docker and creating CI/CD Pipelines with Jenkins - Second Part](https://medium.com/proscai-x/containerizing-your-first-netcore-microservice-with-docker-and-creating-ci-cd-pipelines-with-c04ef62f9c17)
+    - **Repository :** https://github.com/elsavies/NetCoreMicroservices
 
 - [How To Develop Microservices Using .Net Core & Docker](https://www.3pillarglobal.com/insights/develop-microservices-net-core-docker)
 
