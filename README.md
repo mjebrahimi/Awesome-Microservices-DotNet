@@ -413,8 +413,6 @@ May 2020
 
 - [Splitting up a Monolith to (micro)Services by CodeOpinion (Video)](https://www.youtube.com/watch?v=Inscvakv5XI)
 
-- [START with a Monolith, NOT Microservices by CodeOpinion (Video)](https://www.youtube.com/watch?v=Z_pj1mUDKdw)
-
 ## Sample Projects
 
 - https://github.com/vietnam-devs/coolstore-microservices
