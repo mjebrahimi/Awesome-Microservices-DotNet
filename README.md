@@ -30,7 +30,7 @@ January 2019-September 2019
 
 4. [Building Microservices On .NET Core – Part 4 Building API Gateways With Ocelot](https://altkomsoftware.pl/en/blog/building-api-gateways-with-ocelot/)
 
-5. [Building Microservices On .NET Core – Part 5 Marten An Ideal Repository For Your Domain Aggregates](https://altkomsoftware.pl/en/blog/building-microservices-domain-aggregates/)
+5. [Building Microservices On .NET Core – Part 5 Marten An Ideal Repository For Your Domain Aggregates](https://altkomsoftware.pl/en/blog/building-microservices-net-core-part-5-marten-ideal-repository-domain-aggregates/)
 
 6. [Building Microservices On .NET Core – Part 6 Real time server client communication with SignalR and RabbitMQ](https://altkomsoftware.pl/en/blog/building-microservices-6/)
 
@@ -349,9 +349,6 @@ May 2020
 - [Microservices with ASP.NET Core 3.1](https://procodeguide.com/programming/microservices-asp-net-core/)
     - **Repository :** https://github.com/procodeguide/Microservices.Sample
 
-- [Microservices using ASP.NET Core, Ocelot, MongoDB and JWT](https://www.codeproject.com/Articles/5271708/Microservices-using-ASP-NET-Core-Ocelot-MongoDB-an)
-    - **Repository :** https://github.com/aelassas/store
-
 - [Get Started Building Microservices with ASP.NET Core and Docker in Visual Studio Code](https://fullstackmark.com/post/12/get-started-building-microservices-with-asp.net-core-and-docker-in-visual-studio-code)
     - **Repository :** https://github.com/mmacneil/ASPNETCoreDockerMicroservices
     
@@ -499,8 +496,6 @@ May 2020
 - https://github.com/vany0114/microservices-dotnetcore-docker-sf-k8s
 
 - https://github.com/vany0114/chaos-injection-using-simmy
-
-- https://github.com/aelassas/store
 
 - https://github.com/mspnp/microservices-reference-implementation
 
