@@ -316,7 +316,7 @@ May 2020
 
 - [.NET Microservices: Architecture for Containerized .NET Applications](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/) - [Download PDF](https://aka.ms/microservicesebook)
 
-- [Microservices in .NET Core (with examples in Nancy)](https://livebook.manning.com/book/microservices-in-net-core/about-this-book/) - [Manning Publications](https://www.manning.com/books/microservices-in-net-core)
+- [Microservices in .NET Core (with examples in Nancy)](https://livebook.manning.com/book/microservices-in-net-core/about-this-book/) - [Manning Publications](https://www.manning.com/books/microservices-in-net-core) <!-- markdown-link-check-disable-line -->
 
 - [Microservices Recipes (a free gitbook)](https://github.com/vaquarkhan/microservices-recipes-a-free-gitbook)
 
