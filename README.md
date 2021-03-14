@@ -415,6 +415,8 @@ May 2020
 
 - [Splitting up a Monolith to (micro)Services by CodeOpinion (Video)](https://www.youtube.com/watch?v=Inscvakv5XI)
 
+- [Building microservices with Tye (Video)](https://channel9.msdn.com/Shows/On-NET/Building-microservices-with-Tye)
+
 ## Sample Projects
 
 - https://github.com/vietnam-devs/coolstore-microservices
