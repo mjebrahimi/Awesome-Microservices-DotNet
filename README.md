@@ -511,11 +511,15 @@ May 2020
 
 - https://github.com/PacktPublishing/.NET-Core-Microservices
 
+- https://github.com/PacktPublishing/Building-Microservices-with-DotNET-Core
+
 - https://github.com/snatch-dev/Convey
 
 - https://github.com/johnph/simple-transaction
 
 - https://github.com/cloudnative-netcore/modernstore
+
+- https://github.com/aacostamx/Microservice-using-ASP-NET-Core
 
 ## Tools and Libraries
 
@@ -536,9 +540,6 @@ May 2020
 
 ### Service Discovery
 - [Consul.NET](https://github.com/G-Research/consuldotnet) - Consul.NET is a .NET client library for the [HashiCorp Consul](https://github.com/hashicorp/consul) HTTP API
-
-### Framework
-- [Microdot](https://github.com/gigya/microdot) - An Open Source .NET Microservices Framework
 
 ### Other
 - [Dapr](https://github.com/dapr/dotnet-sdk) - Dapr SDK for .NET ([Dapr](https://github.com/dapr/dapr) is a portable, event-driven, serverless runtime for building distributed applications)
