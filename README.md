@@ -298,8 +298,6 @@ May 2020
 
 - [Building Microservices with .NET Core](https://www.amazon.com/Building-Microservices-NET-Core-Reactive-ebook/dp/B01MQ52RM3) <small>(by Gaurav Kumar Aroraa, Lalit Kale, and Kanwar Manish) June 14, 2017</small>
 
-- [Hands-On Software Architecture with C# 8 and .NET Core 3](https://www.amazon.com/Hands-Software-Architecture-NET-Core-ebook/dp/B081JNHSM2) <small>(by Gabriel Baptista and Francesco Abbruzzese) November 29, 2019</small>
-
 - [Microservices by examples using .NET Core](https://www.amazon.com/Microservices-examples-using-NET-Core/dp/9387284581) <small>(by Biswa Pujarini Mohapatra, Baishakhi Banerjee, and Gaurav Aroraa) April 16, 2019</small>
 
 - [Building Microservices with ASP.NET Core](https://www.amazon.com/Building-Microservices-ASP-NET-Core-Cross-Platform-ebook/dp/B0758YB73N) <small>(by Kevin Hoffman) August 31, 2017</small>
