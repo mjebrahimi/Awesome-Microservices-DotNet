@@ -380,6 +380,8 @@ May 2020
 - [Microservices Using ASP.NET Core](https://www.c-sharpcorner.com/article/microservice-using-asp-net-core/)
 
 - [Microservices Using .Net Core 2.X With C# and Docker](https://dzone.com/articles/micro-services-using-net-core-2x-with-c-and-docker)
+
+- [Serverless Event-Driven Architecture on Azure: A Worked Example - Part 1](https://dev.to/mariomeyrelles/serverless-event-driven-architecture-on-azure-a-worked-example-part-1-481e) and [Part2](https://dev.to/mariomeyrelles/serverless-event-driven-architecture-on-azure-a-worked-example-part-2-3im6)
 	
 - [Edwin van Wijk — Building microservices with .NET Core and Docker (Video)](https://www.youtube.com/watch?v=-AfZxdXa7yc)
 
