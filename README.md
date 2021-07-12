@@ -373,6 +373,8 @@ May 2020
     - [Containerizing your First NetCore MicroService with Docker and creating CI/CD Pipelines with Jenkins - Second Part](https://medium.com/proscai-x/containerizing-your-first-netcore-microservice-with-docker-and-creating-ci-cd-pipelines-with-c04ef62f9c17)
     - **Repository :** https://github.com/elsavies/NetCoreMicroservices
 
+- [Microservice Series - From Zero to Hero](https://www.programmingwithwolfgang.com/microservice-series-from-zero-to-hero)
+
 - [How To Develop Microservices Using .Net Core & Docker](https://www.3pillarglobal.com/insights/develop-microservices-net-core-docker)
 
 - [Using Microservices in .Net Core and Docker container](https://medium.com/@didourebai/using-microservices-in-net-core-and-docker-container-c202785dd295)
