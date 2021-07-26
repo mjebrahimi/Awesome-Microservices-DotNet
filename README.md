@@ -535,6 +535,7 @@ May 2020
 - [ZeroMQ](https://github.com/zeromq/netmq) - A 100% native C# implementation of ZeroMQ for .NET
 - [CAP](https://github.com/dotnetcore/CAP) - Distributed transaction solution in micro-service base on eventually consistency, also an eventbus with Outbox pattern
 - [Brighter](https://github.com/BrighterCommand/Brighter) - Command Dispatcher, Processor, and Distributed Task Queue
+- [silky](https://github.com/liuhll/silky) - The Silky framework is designed to help developers quickly build a microservice development framework through simple code and configuration under the .net platform
 
 ### Api Gateway
 - [Ocelot](https://github.com/ThreeMammals/Ocelot) - .NET core API Gateway
