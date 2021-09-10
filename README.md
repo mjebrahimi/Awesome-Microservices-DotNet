@@ -535,6 +535,7 @@ May 2020
 - [ZeroMQ](https://github.com/zeromq/netmq) - A 100% native C# implementation of ZeroMQ for .NET
 - [CAP](https://github.com/dotnetcore/CAP) - Distributed transaction solution in micro-service base on eventually consistency, also an eventbus with Outbox pattern
 - [Brighter](https://github.com/BrighterCommand/Brighter) - Command Dispatcher, Processor, and Distributed Task Queue
+- [Silverback](https://github.com/BEagle1984/silverback) - Silverback is a simple but feature-rich message bus for .NET (supports Kafka, RabbitMQ and MQTT).
 
 ### Api Gateway
 - [Ocelot](https://github.com/ThreeMammals/Ocelot) - .NET core API Gateway
