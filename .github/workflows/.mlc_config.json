@@ -1,3 +1,8 @@
 {
-  "aliveStatusCodes": [429, 200, 0]
+  "aliveStatusCodes": [429, 200, 0],
+  "ignorePatterns": [
+    {
+      "pattern": "^https://www.udemy.com/"
+    }
+  ],
 }
