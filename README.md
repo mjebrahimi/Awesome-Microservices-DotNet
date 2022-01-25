@@ -341,7 +341,16 @@ May 2020
 - [Deploying ASP.NET Core Microservices Using Kubernetes and AKS | Pluralsight](https://www.pluralsight.com/courses/deploying-asp-dot-net-core-microservices-kubernetes-aks)
 
 - [Strategies for Microservice Scalability and Availability in ASP.NET Core | Pluralsight](https://www.pluralsight.com/courses/strategies-microservice-scalability-availability-asp-dot-net-core)
+- [Step-by-step tutorial for building microservices using .NET](https://www.youtube.com/watch?v=DgVjEo3OGBI&t=11544s)
 
+	**Course content :** 
+	 - Building two .NET Microservices using the REST API pattern
+	 - Working with dedicated persistence layers for both services
+	 - Deploying our services to Kubernetes cluster
+	 - Employing the API Gateway pattern to route to our services
+	 - Building Synchronous messaging between services (HTTP & gRPC)
+	 - Building Asynchronous messaging between services using an Event Bus
+	   (RabbitMQ)
 ## Other Tutorials
 
 - [Microservices with ASP.NET Core 3.1](https://procodeguide.com/programming/microservices-asp-net-core/)
