@@ -310,6 +310,8 @@ May 2020
 
 - [Microservices in .NET Core](https://www.amazon.com/Microservices-NET-Core-examples-Nancy/dp/1617293377) <small>(by Christian Horsdal Gammelgaard) February 3, 2017</small>
 
+- [Microservices APIs](https://www.manning.com/books/microservice-apis) <small>(by José Haro Peralta) early access, publication in Summer 2022</small>
+
 ## Free eBooks
 
 - [.NET Microservices: Architecture for Containerized .NET Applications](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/) - [Download PDF](https://aka.ms/microservicesebook)
