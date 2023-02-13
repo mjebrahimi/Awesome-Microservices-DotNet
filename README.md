@@ -374,6 +374,9 @@ May 2020
 - [Securing Microservices with IdentityServer4, OAuth2 and OpenID Connect fronted by Ocelot API Gateway](https://medium.com/aspnetrun/securing-microservices-with-identityserver4-with-oauth2-and-openid-connect-fronted-by-ocelot-api-49ea44a0cf9e)
     - **Repository :** https://github.com/aspnetrun/run-aspnet-identityserver4
 
+- [ASP.NET Core Developer Roadmap](https://roadmap.sh/aspnet-core)
+    - **Repository :** https://github.com/kamranahmedse/developer-roadmap
+
 - [Using gRPC in Microservices for Building a high-performance Interservice Communication with .Net 5](https://medium.com/aspnetrun/using-grpc-in-microservices-for-building-a-high-performance-interservice-communication-with-net-5-11f3e5fa0e9d)
     - **Repository :** https://github.com/aspnetrun/run-aspnet-grpc
     
