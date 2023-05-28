@@ -22,19 +22,19 @@ If you liked this repo or if it helped you, please give a star ⭐️ for this r
 ### Building Microservices On .NET Core 
 January 2019-September 2019
 
-1. [Building Microservices On .NET Core – Part 1 The Plan](https://altkomsoftware.pl/en/blog/building-microservices-net-core-part-1-plan/)
+1. [Building Microservices On .NET Core – Part 1 The Plan](https://altkomsoftware.com/blog/building-microservices-net-core-part-1-plan/)
 
-2. [Building Microservices On .NET Core – Part 2 Shaping microservice internal architecture with CQRS and MediatR](https://altkomsoftware.pl/en/blog/microservices-net-core-cqrs-mediatr/)
+2. [Building Microservices On .NET Core – Part 2 Shaping microservice internal architecture with CQRS and MediatR](https://altkomsoftware.com/blog/microservices-net-core-cqrs-mediatr/)
 
-3. [Building Microservices On .NET Core – Part 3 Service Discovery with Eureka](https://altkomsoftware.pl/en/blog/service-discovery-eureka/)
+3. [Building Microservices On .NET Core – Part 3 Service Discovery with Eureka](https://altkomsoftware.com/blog/service-discovery-eureka/)
 
-4. [Building Microservices On .NET Core – Part 4 Building API Gateways With Ocelot](https://altkomsoftware.pl/en/blog/building-api-gateways-with-ocelot/)
+4. [Building Microservices On .NET Core – Part 4 Building API Gateways With Ocelot](https://altkomsoftware.com/blog/building-api-gateways-with-ocelot/)
 
-5. [Building Microservices On .NET Core – Part 5 Marten An Ideal Repository For Your Domain Aggregates](https://altkomsoftware.pl/en/blog/building-microservices-net-core-part-5-marten-ideal-repository-domain-aggregates/)
+5. [Building Microservices On .NET Core – Part 5 Marten An Ideal Repository For Your Domain Aggregates](https://altkomsoftware.com/blog/building-microservices-net-core-part-5-marten-ideal-repository-domain-aggregates/)
 
-6. [Building Microservices On .NET Core – Part 6 Real time server client communication with SignalR and RabbitMQ](https://altkomsoftware.pl/en/blog/building-microservices-6/)
+6. [Building Microservices On .NET Core – Part 6 Real time server client communication with SignalR and RabbitMQ](https://altkomsoftware.com/blog/building-microservices-6/)
 
-7. [Building Microservices On .NET Core – Part 7 Transactional Outbox with RabbitMQ](https://altkomsoftware.pl/en/blog/microservices-outbox-rabbitmq/)
+7. [Building Microservices On .NET Core – Part 7 Transactional Outbox with RabbitMQ](https://altkomsoftware.com/blog/microservices-outbox-rabbitmq/)
 
 **Repository :** https://github.com/asc-lab/dotnetcore-microservices-poc
 
