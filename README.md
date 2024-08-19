@@ -68,7 +68,7 @@ January 2019-
 **Repository :** https://github.com/logcorner/LogCorner.EduSync.Speech.Command/  https://github.com/logcorner/LogCorner.EduSync.Speech.ServiceBus
 
 ### Building API Gateway Using Ocelot In ASP.NET Core
-November 2017-August 2019
+November 2017-August 2019 
 
 1. [Building API Gateway Using Ocelot In ASP.NET Core](https://www.c-sharpcorner.com/article/building-api-gateway-using-ocelot-in-asp-net-core/)
 
@@ -320,27 +320,22 @@ May 2020
 
 ## Courses
 
-- [.NET Core Microservices | Udemy](https://www.udemy.com/course/net-core-microservices/) - ([Packt](https://www.packtpub.com/product/net-core-microservices-video/9781788626415))
+- [.NET Core Microservices - The Complete Guide (.NET 8 MVC) | Udemy](https://www.udemy.com/course/net-core-microservices-the-complete-guide-net-6-mvc/)
 
-- [Microservices Architecture and Implementation on .NET 5 | Udemy](https://www.udemy.com/course/microservices-architecture-and-implementation-on-dotnet/)
+- [.NET 8 Microservices: DDD, CQRS, Vertical/Clean Architecture | Udemy](https://www.udemy.com/course/microservices-architecture-and-implementation-on-dotnet/)
 
-- [Building Microservices using ASP.NET Core 5.0 and Docker | Udemy](https://www.udemy.com/course/microservices-using-aspnet-core-5-and-docker-rabbitmq-facedetection/)
+- [.NET Microservices: CQRS & Event Sourcing with Kafka | Udemy](https://www.udemy.com/course/net-microservices-cqrs-event-sourcing-with-kafka/)
+
+- [Build a Microservices app with .Net and NextJS from scratch | Udemy](https://www.udemy.com/course/build-a-microservices-app-with-dotnet-and-nextjs-from-scratch/)
+
+- [Creating .Net Core Microservices using Clean Architecture | Udemy](https://www.udemy.com/course/creating-net-core-microservices-using-clean-architecture/)
+
+- [Design Microservices Architecture with Patterns & Principles | Udemy](https://www.udemy.com/course/design-microservices-architecture-with-patterns-principles/)
 
 - [Getting Started .NET Core Microservices RabbitMQ | Udemy](https://www.udemy.com/course/getting-started-net-core-microservices-rabbitmq/)
 
 - [Build Microservices with .NET Core & Amazon Web Services | Udemy](https://www.udemy.com/course/build-microservices-with-aspnet-core-amazon-web-services/)
 
-- [ASP.NET Core Microservices: Getting Started | Pluralsight](https://www.pluralsight.com/courses/getting-started-asp-dot-net-core-microservices)
-
-- [Microservices Communication in ASP.NET Core | Pluralsight](https://www.pluralsight.com/courses/microservices-communication-asp-dot-net-core)
-
-- [Versioning and Evolving Microservices in ASP.NET Core | Pluralsight](https://www.pluralsight.com/courses/versioning-evolving-microservices-asp-dot-net-core)
-
-- [Securing Microservices in ASP.NET Core | Pluralsight](https://www.pluralsight.com/courses/securing-microservices-asp-dot-net-core)
-
-- [Deploying ASP.NET Core Microservices Using Kubernetes and AKS | Pluralsight](https://www.pluralsight.com/courses/deploying-asp-dot-net-core-microservices-kubernetes-aks)
-
-- [Strategies for Microservice Scalability and Availability in ASP.NET Core | Pluralsight](https://www.pluralsight.com/courses/strategies-microservice-scalability-availability-asp-dot-net-core)
 - [Step-by-step tutorial for building microservices using .NET](https://www.youtube.com/watch?v=DgVjEo3OGBI&t=11544s)
 
 	**Course content :** 
