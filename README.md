@@ -428,6 +428,10 @@ May 2020
 
 - [Building microservices with Tye (Video)](https://channel9.msdn.com/Shows/On-NET/Building-microservices-with-Tye)
 
+- [Distributed Microservices Development With NET5 and Dapr (Udemy)](https://www.udemy.com/course/distributed-microservices-development-revolution-with-net5-and-dapr/)
+
+- [Deploying Daprized Microservices Apps to Kubernetes (Udemy)](https://www.udemy.com/course/deploying-daprized-microservices-apps-to-kubernetes/)
+
 ## Sample Projects
 
 - https://github.com/vietnam-devs/coolstore-microservices
