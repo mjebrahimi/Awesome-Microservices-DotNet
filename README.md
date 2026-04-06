@@ -2,6 +2,7 @@
 
 > A collection of awesome training series, articles, videos, books, courses, sample projects, and tools for Microservices in .NET
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for .NET microservices workflow orchestration, automated service mesh management, and multi-agent coordination. MIT licensed.
 ## Give a Star! ⭐️
 
 If you liked this repo or if it helped you, please give a star ⭐️ for this repository. That will not only help strengthen our .NET community but also improve skills about the Microservices for .NET developers around the world 👍. Thank you very much.
