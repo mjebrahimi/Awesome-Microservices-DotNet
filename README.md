@@ -334,6 +334,7 @@ May 2020
 
 - [Microservices Communication in ASP.NET Core | Pluralsight](https://www.pluralsight.com/courses/microservices-communication-asp-dot-net-core)
 
+- [TutorialSearch](https://tutorialsearch.io/browse/cloud-computing/cloud-microservices) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 - [Versioning and Evolving Microservices in ASP.NET Core | Pluralsight](https://www.pluralsight.com/courses/versioning-evolving-microservices-asp-dot-net-core)
 
 - [Securing Microservices in ASP.NET Core | Pluralsight](https://www.pluralsight.com/courses/securing-microservices-asp-dot-net-core)
