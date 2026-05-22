@@ -561,6 +561,7 @@ May 2020
 - [Dapr](https://github.com/dapr/dotnet-sdk) - Dapr SDK for .NET ([Dapr](https://github.com/dapr/dapr) is a portable, event-driven, serverless runtime for building distributed applications)
 - [Project Tye](https://github.com/dotnet/tye) - Tye is a tool that makes developing, testing, and deploying microservices and distributed applications easier
 - [Health Checks](https://github.com/xabaril/AspNetCore.Diagnostics.HealthChecks) - Enterprise HealthChecks for ASP.NET Core Diagnostics Package
+- [Agentic Architect](https://github.com/agenticstandardcontact-byte/agentic-architect) - Directory-scoped `.cursor/rules/*.mdc` for senior C#/.NET teams that catches DI lifetime captures (Scoped→Singleton, captured `DbContext` in hosted services) and enforces architectural boundaries before merge — particularly relevant to microservices where lifetime mistakes scale silently in production.
 
 
 
