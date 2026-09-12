@@ -554,6 +554,7 @@ May 2020
 - [Consul.NET](https://github.com/G-Research/consuldotnet) - Consul.NET is a .NET client library for the [HashiCorp Consul](https://github.com/hashicorp/consul) HTTP API
 
 ### Frameworks
+- [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril) - Open-source .NET agentic software factory with an amazing UI that handles parallel Git worktrees for you, complete with programmatic verifications and fast review loops.
 - [Microdot](https://github.com/gigya/microdot) - Microdot is an open source .NET framework that answers a lot of the needs for easily creating microservices.
 - [Foundatio](https://github.com/FoundatioFx/Foundatio) - Pluggable foundation blocks for building distributed apps.
 
