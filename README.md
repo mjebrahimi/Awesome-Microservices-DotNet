@@ -341,6 +341,16 @@ May 2020
 - [Deploying ASP.NET Core Microservices Using Kubernetes and AKS | Pluralsight](https://www.pluralsight.com/courses/deploying-asp-dot-net-core-microservices-kubernetes-aks)
 
 - [Strategies for Microservice Scalability and Availability in ASP.NET Core | Pluralsight](https://www.pluralsight.com/courses/strategies-microservice-scalability-availability-asp-dot-net-core)
+- [Dapr 101 | Diagrid University](https://www.diagrid.io/university/dapr-101)
+
+- [Dapr Pub/Sub | Diagrid University](https://www.diagrid.io/university/dapr-pubsub)
+
+- [Dapr Secrets | Diagrid University](https://www.diagrid.io/university/dapr-secrets)
+
+- [Dapr Bindings | Diagrid University](https://www.diagrid.io/university/dapr-bindings)
+
+- [Dapr Workflow 101 | Diagrid University](https://www.diagrid.io/university/dapr-workflow)
+
 - [Step-by-step tutorial for building microservices using .NET](https://www.youtube.com/watch?v=DgVjEo3OGBI&t=11544s)
 
 	**Course content :** 
